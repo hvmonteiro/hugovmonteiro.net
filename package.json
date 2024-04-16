@@ -1,0 +1,17 @@
+{
+  "name": "hugovmonteiro.net",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "Hugo V. Monteiro",
+  "license": "ISC",
+  "description": "Personal website @ https://www.hugovmonteiro.net",
+  "scripts": {
+    "hugo": "hugo",
+    "hugo:dev": "hugo server --minify --disableFastRender --navigateToChanged  --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic --verbose -D",
+    "hugo:server": "hugo server --minify --disableFastRender --navigateToChanged  --templateMetrics --templateMetricsHints --buildFuture --watch --forceSyncStatic",
+    "hugo:build": "hugo --minify"
+  },
+  "dependencies": {
+    "hugo-installer": "^4.0.1"
+  }
+}
