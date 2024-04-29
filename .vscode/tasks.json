@@ -2,7 +2,7 @@
     "version": "2.0.0",
     "tasks": [
       {
-        "label": "Start Hugo devel server",
+        "label": "Run Hugo devel server",
         "type": "shell",
         "command": "hugo server --minify --disableFastRender --navigateToChanged  --templateMetrics --templateMetricsHints --verbose --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic --verbose -D",
         "problemMatcher": []

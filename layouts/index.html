@@ -47,7 +47,7 @@
             {{- partial "list-recent-posts.html" . -}}
         {{ end }}
     {{ else if eq .Site.Params.ShowPostsOnHomePage "recent" }}
-        {{ range $posts.ByDate.Reverse | first 3 }}
+        {{ range $posts.ByDate.Reverse | first 5 }}
             {{- partial "list-recent-posts.html" . -}}
         {{ end }}
     {{ end }}

@@ -1,10 +1,11 @@
 +++
-title = 'Software'
+title = "Technical Notes Test"
+description = ""
 date = 2024-04-12T02:59:11+01:00
 draft = true
 image = "/path/to/image.png"
 type = "post"
-tags = ["software"]
+tags = ["technical notes"]
 +++
 
 # Projects

@@ -1,8 +1,13 @@
 +++
-title = 'Desk Setup'
+title = "Desk Setup"
 date = 2024-04-16T19:14:11+01:00
 description = "My working desktop setup" 
 draft = true
+showTableOfContents = true
+type = "post"
+tags = ["technical notes"]
+[params]
+  author = 'Hugo Monteiro'
 +++
 ```markdown
 title: "Markdown Syntax Guide"
