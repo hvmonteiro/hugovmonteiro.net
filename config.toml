@@ -124,19 +124,19 @@ unsafe = true
 
 [menu]
 
-[[menu.main]]
+#- [[menu.main]]
 # Unique identifier for a menu item
-identifier = "home"
+#- identifier = "home"
 # Display name
-name = "Home"
-url = "/"
+#- name = "Home"
+#- url = "/"
 # You can add extra information before the name (HTML format is supported), such as icons
-pre = "<span data-feather='home'></span>"
+#- pre = "<span data-feather='home'></span>"
 # We use feather-icons: https://feathericons.com/
 # You can add extra information after the name (HTML format is supported), such as icons
-post = ""
+#- post = ""
 # Weights are used to determine the ordering
-weight = 10
+#- weight = 10
 
 [[menu.main]]
 identifier = "about"
@@ -146,39 +146,39 @@ pre = "<span data-feather='user'></span>"
 weight = 20
 
 [[menu.main]]
-identifier = "blog"
-url = "/blog/"
-name = "Blog"
+identifier = "writtings"
+url = "/writtings/"
+name = "Writtings"
 pre = "<span data-feather='book-open'></span>"
 weight = 30
 
-[[menu.main]]
-identifier = "series"
-name = "Series"
-url = "/series/"
-pre = "<span data-feather='calendar'></span>"
-weight = 40
-
-[[menu.main]]
-identifier = "notes"
-name = "Notes"
-url = "/notes/"
-pre = "<span data-feather='code'></span>"
-weight = 50
+#- [[menu.main]]
+#- identifier = "series"
+#- name = "Series"
+#- url = "/series/"
+#- pre = "<span data-feather='calendar'></span>"
+#- weight = 40
 
 [[menu.main]]
 identifier = "projects"
 name = "Projects"
 url = "/projects/"
 pre = "<span data-feather='hexagon'></span>"
-weight = 60
+weight = 50
 
 [[menu.main]]
-identifier = "desksetup"
-name = "Desk Setup"
-url = "/desksetup/"
-pre = "<span data-feather='monitor'></span>"
-weight = 70
+identifier = "technical-notes"
+name = "Technical Notes"
+url = "/technical-notes/"
+pre = "<span data-feather='code'></span>"
+weight = 60
+
+#- [[menu.main]]
+#- identifier = "desksetup"
+#- name = "Desk Setup"
+#- url = "/desksetup/"
+#- pre = "<span data-feather='monitor'></span>"
+#- weight = 70
 
 [[menu.main]]
 identifier = "tags"
