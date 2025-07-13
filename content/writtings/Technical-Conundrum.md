@@ -1,7 +1,7 @@
 +++
 title = 'Technical Conundrum'
 date = 2024-04-12T01:49:43+01:00
-draft = true
+draft = false
 showTableOfContents = true
 image = "/images/avatar.png"
 type = "post"
