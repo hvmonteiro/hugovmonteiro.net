@@ -1,7 +1,7 @@
 +++
 title = 'Google Chrommium'
 date = 2024-04-12T11:50:30+01:00
-draft = true
+draft = false
 image = "/path/to/image.png"
 type = "post"
 tags = ["blog"]
