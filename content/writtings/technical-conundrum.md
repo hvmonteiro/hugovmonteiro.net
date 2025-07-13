@@ -5,7 +5,7 @@ draft = false
 showTableOfContents = true
 image = "/images/avatar.png"
 type = "post"
-tags = ["corporation”, “architecture”, “r&d”, “solution designer”, “systems"]
+tags = ["Outsourcing", "Contracts", "Architecture”, “Solution Designer”, “Systems"]
 [params]
   author = 'Hugo Monteiro'
 +++
