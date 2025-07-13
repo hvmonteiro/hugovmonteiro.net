@@ -40,17 +40,20 @@
     <div class="home-posts list-posts" style="width: 50%;">
         <h2>{{ i18n (.Site.Params.ShowPostsOnHomePage | humanize) }} Recent Posts</h2>
 
-    {{ $posts := where .Site.Pages "Params.type" "post" }}
+        {{/* 
+            Modified: Collect posts from both "posts" and "writings" sections 
+        */}}
+        {{ $posts := where .Site.RegularPages "Section" "in" (slice "posts" "writings") }}
 
-    {{ if eq .Site.Params.ShowPostsOnHomePage "popular" }}
-        {{ range $posts.ByWeight | first 3 }}
-            {{- partial "list-recent-posts.html" . -}}
+        {{ if eq .Site.Params.ShowPostsOnHomePage "popular" }}
+            {{ range $posts.ByWeight | first 3 }}
+                {{- partial "list-recent-posts.html" . -}}
+            {{ end }}
+        {{ else if eq .Site.Params.ShowPostsOnHomePage "recent" }}
+            {{ range $posts.ByDate.Reverse | first 5 }}
+                {{- partial "list-recent-posts.html" . -}}
+            {{ end }}
         {{ end }}
-    {{ else if eq .Site.Params.ShowPostsOnHomePage "recent" }}
-        {{ range $posts.ByDate.Reverse | first 5 }}
-            {{- partial "list-recent-posts.html" . -}}
-        {{ end }}
-    {{ end }}
     </div>
 
 {{ end }}
