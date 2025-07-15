@@ -10,7 +10,7 @@ Hugo Monteiro is a senior Solution Designer and Architect with over **25 years o
 
 Hugo brings **broad, full-spectrum expertise** across all layers of technology—from **hardware and embedded systems** to **cloud platforms, ERP solutions, and application development**. He has successfully **managed cross-functional teams**, led **complex project lifecycles**, and delivered secure, scalable, and maintainable systems across a range of industries.
 
-### ✅ Key Strengths
+### Key Strengths
 
 - **End-to-end systems design**: Deep experience integrating hardware, firmware, backend, and frontend layers into unified platforms.  
 - **Architecture leadership**: Skilled in designing robust, future-proof solutions aligned with both business and technical goals.  
@@ -19,7 +19,7 @@ Hugo brings **broad, full-spectrum expertise** across all layers of technology�
 - **R&D innovation**: Hands-on experience with rapid prototyping and scaling of new technologies in dynamic environments.  
 - **Enterprise collaboration**: Experienced in working with multidisciplinary teams across product, QA, DevOps, and senior leadership.
 
-### 🚀 Career Highlights
+### Career Highlights
 
 - **Currently part of Nokia’s Center of Excellence**, shaping system architecture and driving innovation for global-scale solutions.  
 - **Worked with top-tier global tech companies**, applying best practices, technical rigor, and agile delivery models.  
