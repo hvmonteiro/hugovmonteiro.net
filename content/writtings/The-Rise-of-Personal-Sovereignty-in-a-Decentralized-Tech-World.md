@@ -1,6 +1,10 @@
 +++
 title = 'The Rise of Personal Sovereignty in a Decentralized Tech World'
 date = 2025-07-15T20:00:50+01:00
+draft = false
+type = "post"
+tags = ["Futurism", "Opinion", "Future", "Artificial Inteligence", "AI", "Sovereignty", "OnlinePrivacy", "DataProtection", "Technology", "IoT"]
+showTableOfContents = true
 +++
 
 # The Rise of Personal Sovereignty in a Decentralized Tech World
