@@ -10,9 +10,7 @@
 -->
 
 
-          <li class="post-stub">
-              <a class="js-ajax-link" href="{{ .Permalink }}">
-                  <h4 class="post-stub-title">{{ .Title }}</h4>
-                  <time class="post-stub-date" datetime="{{ dateFormat (or .Site.Params.dateFormat "January 2, 2006") .Date}}">{{ dateFormat (or .Site.Params.dateFormat "January 2, 2006") .Date}}</time>
-              </a>
+          <li>
+              <a href="{{ .Permalink }}" class="post-link">{{ .Title }}</a>
+              <div class="flex-break"></div>&nbsp;&nbsp;&nbsp;<span class="post-date" style="font-size: 15px; font-style: italic; color: #ababab">({{ dateFormat (or .Site.Params.dateFormat "January 2, 2006") .Date}})</span>
           </li>
