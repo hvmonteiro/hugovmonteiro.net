@@ -175,6 +175,7 @@ The vision — of *sovereign personal computing in a decentralized society* — 
 
 ![personal-sovereign-systems-chart.png](images/personal-sovereign-systems-chart.png)
 
+
 # A *Day In The Life* of a Person Living with a Personal Sovereign System
 
 Here’s a **narrative simulation** of a typical day in the 2040s for someone living with a **Personal Sovereign System** — let’s call her **Amina**, a 35-year-old urban designer in a mid-sized autonomous city.
