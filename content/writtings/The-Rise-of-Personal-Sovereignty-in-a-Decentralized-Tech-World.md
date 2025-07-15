@@ -176,14 +176,14 @@ The vision — of *sovereign personal computing in a decentralized society* — 
 
 ---
 
-![personal-sovereign-systems-chart.png](images/personal-sovereign-systems-chart.png)
+![personal-sovereign-systems-chart.png](/images/personal-sovereign-systems-chart.png)
 
 
 # A *Day In The Life* of a Person Living with a Personal Sovereign System
 
 Here’s a **narrative simulation** of a typical day in the 2040s for someone living with a **Personal Sovereign System** — let’s call her **Amina**, a 35-year-old urban designer in a mid-sized autonomous city.
 
----
+![pss-simulation-illustration.png](/images/pss-simulation-illustration.png)
 
 ### 07:30 AM – *Wake-Up, Peacefully and Privately*
 
@@ -192,7 +192,6 @@ Amina’s **AI agent**, called *Orin*, gently wakes her by adjusting the tint of
 > No cloud data involved — everything runs locally on her sovereign device under her bed.
 > 
 
----
 
 ### 08:15 AM – *Morning Routine, Customized by AI*
 
@@ -205,7 +204,6 @@ As she prepares tea, *Orin* gives her a short verbal update:
 > Her AI has trained exclusively on her personal data, never shared, never monetized. It has no ads, no tracking.
 > 
 
----
 
 ### 09:00 AM – *Work Begins, Peer-to-Peer*
 
@@ -216,7 +214,6 @@ Her project involves designing **self-repairing urban infrastructure**, and all 
 > The files sync only with authorized nodes in her mesh network via encrypted, decentralized protocols.
 > 
 
----
 
 ### 12:30 PM – *Banking, with Sovereignty*
 
@@ -228,7 +225,6 @@ Amina checks her finances through a **zero-trust wallet interface**:
 > No banks, no middlemen. All identity verification handled via her Decentralized ID (DID), stored locally.
 > 
 
----
 
 ### 03:00 PM – *Private Communication*
 
@@ -237,7 +233,6 @@ She receives a message from her sister overseas. It arrives through a **p2p encr
 > Messages are stored temporarily on sovereign nodes, then auto-deleted after delivery — by default.
 > 
 
----
 
 ### 06:00 PM – *Wellness and Reflection*
 
@@ -246,7 +241,6 @@ After work, Orin suggests a meditation session. Her AI has noticed a pattern of 
 > Orin acts as a health coach, privacy-first psychologist, and task manager — but with zero data leakage.
 > 
 
----
 
 ### 09:30 PM – *The Night Routine*
 
@@ -254,7 +248,6 @@ Before bed, Amina reviews her **Personal Data Ledger** — a transparent log of 
 
 She reviews and tweaks Orin’s behavior with voice commands — and even rewrites one of its subroutines herself, using natural language coding.
 
----
 
 ### Society Snapshot: Around Her
 
@@ -262,7 +255,6 @@ She reviews and tweaks Orin’s behavior with voice commands — and even rewrit
 - Local governments interact with citizens *via sovereign nodes*, not centralized platforms.
 - Children are raised with **digital guardianship** systems that teach them consent, privacy, and how to train their own AI agents.
 
----
 
 ### Core Technologies in Amina’s Life
 
@@ -276,6 +268,4 @@ She reviews and tweaks Orin’s behavior with voice commands — and even rewrit
 | **Zero-Knowledge Proofs** | Allows anonymous authentication |
 | **Voice + Thought Interfaces** | Replaces keyboard/screen for most tasks |
 
----
 
-![pss-simulation-illustration.png](images/pss-simulation-illustration.png)

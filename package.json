@@ -6,12 +6,17 @@
   "license": "ISC",
   "description": "Personal website @ https://www.hugovmonteiro.net",
   "scripts": {
-    "hugo": "hugo",
-    "hugo:dev": "hugo server --minify --disableFastRender --navigateToChanged  --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic --verbose -D",
-    "hugo:server": "hugo server --minify --disableFastRender --navigateToChanged  --templateMetrics --templateMetricsHints --buildFuture --watch --forceSyncStatic",
-    "hugo:build": "hugo --minify"
+    "postinstall": "hugo-installer --version 0.124.1 --extended",
+    "hugo": "exec-bin bin/hugo/hugo",
+    "hugo:dev": "exec-bin bin/hugo/hugo server --minify --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic --verbose -D",
+    "hugo:server": "exec-bin bin/hugo/hugo server --minify --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --buildFuture --watch --forceSyncStatic",
+    "hugo:build": "exec-bin bin/hugo/hugo --minify"
   },
   "dependencies": {
     "hugo-installer": "^4.0.1"
+  },
+  "devDependencies": {
+    "exec-bin": "^1.0.0"
   }
 }
+
