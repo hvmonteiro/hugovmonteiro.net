@@ -20,6 +20,13 @@ Change what you need, the changes will be immediately rendered/shown in realtime
 `git add <files>`
 `git commit`
 `git push`
+
+REMEMBER: Authentication is now done with an Access Token.
+```  
+git push
+Username for 'https://github.com': hvmonteiro
+Password for 'https://hvmonteiro@github.com': <insert access token here>
+```  
   
   
 # Troubleshooting
