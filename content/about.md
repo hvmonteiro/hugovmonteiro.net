@@ -6,18 +6,27 @@ date = 2024-04-16T19:11:50+01:00
 
 ## About Hugo Monteiro
 
-With over 25 years of cross-disciplinary experience in IT engineering and R&D, Hugo is an accomplished Solution Designer and Architect specializing in end-to-end systems integration—spanning hardware, software, and cloud environments. He has led and delivered a variety of projects, from embedded systems to distributed backend services, always focused on delivering scalable, secure, and maintainable solutions.
+Hugo Monteiro is a senior Solution Designer and Architect with over **25 years of experience** delivering impactful IT and R&D solutions across some of the world’s largest technology corporations. He currently plays a strategic role at **Nokia’s Center of Excellence**, contributing to high-level architecture, system integration, and innovation at scale.
 
-### ✅ Core Strengths
+Hugo brings **broad, full-spectrum expertise** across all layers of technology—from **hardware and embedded systems** to **cloud platforms, ERP solutions, and application development**. He has successfully **managed cross-functional teams**, led **complex project lifecycles**, and delivered secure, scalable, and maintainable systems across a range of industries.
 
-- **Full-stack systems integration**: Expertise in aligning hardware, firmware, middleware, backend and frontend components into cohesive platforms.  
-- **Architecture & design leadership**: Proven ability to design modular, robust systems for industrial, commercial, and research applications.  
-- **R&D and innovation mindset**: Trailblazes new technologies and methodologies to optimize performance, reduce cost, and simplify operations.  
-- **Agile & cross-functional collaboration**: Adept at engaging with product owners, developers, QA, and stakeholders to deliver results on time and within scope.  
-- **Technical mentorship**: Passionate about upskilling teams and empowering engineers to own their solutions and grow professionally.
+### ✅ Key Strengths
 
-### 🚀 Professional Highlights
+- **End-to-end systems design**: Deep experience integrating hardware, firmware, backend, and frontend layers into unified platforms.  
+- **Architecture leadership**: Skilled in designing robust, future-proof solutions aligned with both business and technical goals.  
+- **ERP & SAP expertise**: Extensive work in ERP domains, including **SAP system architecture, integration, and process optimization**.  
+- **Project & team management**: Proven track record of leading teams, managing full SDLC projects, and mentoring engineers.  
+- **R&D innovation**: Hands-on experience with rapid prototyping and scaling of new technologies in dynamic environments.  
+- **Enterprise collaboration**: Experienced in working with multidisciplinary teams across product, QA, DevOps, and senior leadership.
 
-- Designed and deployed multiple full-stack architectures in sectors including IoT, automation, and enterprise IT.  
-- Drove R&D initiatives to prototype and evolve cutting-edge platforms from concept to production.  
-- Championed best practices in CI/CD pipelines, modular architecture, and DevOps workflow integration.
+### 🚀 Career Highlights
+
+- **Currently part of Nokia’s Center of Excellence**, shaping system architecture and driving innovation for global-scale solutions.  
+- **Worked with top-tier global tech companies**, applying best practices, technical rigor, and agile delivery models.  
+- Delivered large-scale platforms across **IoT, industrial automation, telecommunications, ERP (including SAP), and enterprise IT**.  
+- Led strategic R&D initiatives from concept through deployment, with emphasis on scalability, performance, and security.  
+- Implemented best practices in **DevOps, CI/CD pipelines**, and **modular system design**.
+
+---
+
+Open to new opportunities that value engineering leadership, deep technical breadth, and enterprise-level innovation.
