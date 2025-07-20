@@ -147,7 +147,7 @@ weight = 20
 
 [[menu.main]]
 identifier = "my-essays"
-url = "/mu-essays/"
+url = "/my-essays/"
 name = "My Essays"
 pre = "<span data-feather='message-square'></span>"
 weight = 30
