@@ -146,11 +146,19 @@ pre = "<span data-feather='user'></span>"
 weight = 20
 
 [[menu.main]]
+identifier = "my-essays"
+url = "/mu-essays/"
+name = "My Essays"
+pre = "<span data-feather='message-square'></span>"
+weight = 30
+
+
+[[menu.main]]
 identifier = "writtings"
 url = "/writtings/"
 name = "Writtings"
 pre = "<span data-feather='book-open'></span>"
-weight = 30
+weight = 40
 
 #- [[menu.main]]
 #- identifier = "series"
