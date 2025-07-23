@@ -1,4 +1,5 @@
+bin/*
+resources/*
+node_modules/*
+public/*
 .hugo_build.lock
-node_modules/
-public/
-bin/

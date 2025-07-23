@@ -1,0 +1,30 @@
+# section information
+section:
+  name: Hobbies
+  id: achievements
+  enable: true
+  weight: 10
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  hideTitle: false
+
+# Your achievements achievements
+achievements:
+- title: Musician, Guitarist and Recording Artist
+  image: /images/sections/achievements/guitarist.jpg
+  summary: Guitarist of an Heavy Metal band with a record contract.
+- title: Producer and Audio Engineer
+  image: /images/sections/achievements/recording-studio.jpg
+  summary: Record and Produce music in professional studios
+- title: Offroad / Overlanding Adventures
+  image: /images/sections/achievements//offroad-adventure.jpg
+  summary: Enthusiast of 4x4 Offroad adventures
+- title: Go Kart Driver
+  image: /images/sections/achievements/go-kart.jpg
+  summary: Driver of Go Kart Portuguese Private Championships
+- title: Motorcycle
+  image: /images/sections/achievements/motorcycle.jpg
+  summary: Organizer and planner of motorcycles events and travels
+- title: Skateboarding
+  image: /images/sections/achievements/skateboarding.jpg
+  summary: First generation of skateboarders in Portugal in the \'80s

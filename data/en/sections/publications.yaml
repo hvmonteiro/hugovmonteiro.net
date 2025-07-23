@@ -1,0 +1,84 @@
+# section information
+section:
+  name: My Essays
+  id: publications
+  enable: false
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: "On Society"
+  filter: "on-society"
+- name: "On Economy"
+  filter: "on-economy"
+- name: "Leadership"
+  filter: "leadership"
+- name: "Miscelaneous"
+  filter: "Miscelaneous"
+
+# your publications
+publications:
+- title: An Example Paper on On Society
+  publishedIn:
+    name: 2020 IEEE Region Symposium (TENSYMP)
+    date: 7 June 2020
+    url: https://example.com
+  authors:
+  - name: Dr. Madman
+    url: https://example.com
+  - name: Dr. Lessmad
+    url: https://example.com
+  - name: Dr. Moremad
+    url: https://example.com
+  - name: Dr. Goodman
+    url: https://example.com
+  paper:
+    summary: Voluptate in id id voluptate laboris. Minim mollit aliquip sit aliqua ut exercitation voluptate eiusmod consequat pariatur sunt enim veniam. Velit esse tempor laboris anim tempor officia. Magna non labore duis do esse sit do ipsum culpa. Officia consequat id non duis culpa dolor. Excepteur magna non nostrud cupidatat aute aliqua aliquip.
+    url: https://example.com
+  categories: ["on-society","on-economy"]
+  tags: ["On Society", "Autonomous Driving", "Computer Vision"]
+
+- title: An Sample Paper on On Economy
+  publishedIn:
+    name: 2020 IEEE Region Symposium (TENSYMP)
+    date: 7 June 2020
+    url: https://example.com
+  authors:
+  - name: Dr. Madman
+    url: https://example.com
+  - name: Dr. Lessmad
+    url: https://example.com
+  - name: Dr. Moremad
+    url: https://example.com
+  - name: Dr. Goodman
+    url: https://example.com
+  paper:
+    summary: Ullamco magna minim cupidatat Lorem ea ex aliqua fugiat et. Dolor quis cillum ea duis irure et commodo aliquip consectetur ullamco labore ut anim nisi. Commodo reprehenderit est consectetur tempor adipisicing occaecat exercitation amet do aliquip dolor do irure. Labore officia ut magna pariatur reprehenderit et ex sit sunt. Magna proident ullamco adipisicing sit.
+    url: https://example.com
+  categories: ["on-economy"]
+  tags: ["On Economy", "Computer Vision"]
+
+- title: An Example Paper on Leadership
+  publishedIn:
+    name: 2020 IEEE Region Symposium (TENSYMP)
+    date: 7 June 2020
+    url: https://example.com
+  authors:
+  - name: Dr. Madman
+    url: https://example.com
+  - name: Dr. Lessmad
+    url: https://example.com
+  - name: Dr. Moremad
+    url: https://example.com
+  - name: Dr. Goodman
+    url: https://example.com
+  paper:
+    summary: Dolor ad cupidatat pariatur nulla ipsum ex ullamco nisi anim ullamco. Dolore elit esse in exercitation minim aliqua. Amet velit incididunt magna laboris. Proident reprehenderit deserunt ad officia duis dolor. Tempor nostrud ullamco ullamco sint deserunt cupidatat irure minim consectetur nulla adipisicing sunt.
+    url: https://example.com
+  categories: ["leadership"]
+  tags: ["On Society", "Autonomous Driving", "Machine Vision"]
