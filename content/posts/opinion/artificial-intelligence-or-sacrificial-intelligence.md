@@ -6,9 +6,11 @@ description: Will AI replace people?
 theme: Toha
 menu:
   sidebar:
-    name: Opinion
+    name: Artificial Intelligence or Sacrificial Intelligence?
     identifier: artificial-intelligence-or-sacrificial-intelligence
     weight: 500
+tags: ["AI", "artificial intelligence", "employement", "managers", "jobs"]
+categories: ["Opinion"]
 ---
 # Artificial Intelligence or Sacrificial Intelligence?
 
