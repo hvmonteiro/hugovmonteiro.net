@@ -60,7 +60,15 @@
     "postcss": "^8.4.41",
     "postcss-cli": "^11.0.0"
   },
-  "keywords": ["hvm", "hvmonteiro", "hugomonteiro", "hugovmonteiro", "blog", "website", "personal"],
+  "keywords": [
+    "hvm",
+    "hvmonteiro",
+    "hugomonteiro",
+    "hugovmonteiro",
+    "blog",
+    "website",
+    "personal"
+  ],
   "license": "ISC",
   "name": "hugovmonteiro.net",
   "scripts": {
@@ -68,8 +76,7 @@
     "hugo:clean": "hugo mod clean --all",
     "hugo:build": "hugo --minify",
     "hugo:dev": "hugo mod clean --all && hugo server --minify --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic -D",
-    "hugo:server": "hugo mod clean --all && hugo server --minify --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --buildFuture --watch --forceSyncStatic",
-    "postinstall": "hugo-installer --version 0.124.1 --extended"
+    "hugo:server": "hugo mod clean --all && hugo server --minify --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --buildFuture --watch --forceSyncStatic"
   },
   "version": "2.0.0"
 }
