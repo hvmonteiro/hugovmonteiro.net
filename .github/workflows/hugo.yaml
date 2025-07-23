@@ -57,7 +57,7 @@ jobs:
           HUGO_ENV: production
           TZ: America/Los_Angeles
         run: |
-          hugo --minify
+          npm run hugo:build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
