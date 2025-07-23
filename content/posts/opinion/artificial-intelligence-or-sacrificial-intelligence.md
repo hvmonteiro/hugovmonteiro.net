@@ -2,9 +2,10 @@
 title: "Artificial Intelligence or Sacrificial Intelligence?"
 date: 2025-01-26T12:26:23+00:00
 hero: /images/posts/opinion
-auhtor: Hugo Monteiro
 description: Will AI replace people?
 theme: Toha
+author:
+  name: Hugo Monteiro
 menu:
   sidebar:
     name: Artificial Intelligence or Sacrificial Intelligence?
