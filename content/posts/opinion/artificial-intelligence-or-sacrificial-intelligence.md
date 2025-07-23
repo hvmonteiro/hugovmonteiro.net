@@ -2,6 +2,7 @@
 title: "Artificial Intelligence or Sacrificial Intelligence?"
 date: 2025-01-26T12:26:23+00:00
 hero: /images/posts/opinion
+auhtor: Hugo Monteiro
 description: Will AI replace people?
 theme: Toha
 menu:
@@ -12,7 +13,6 @@ menu:
 tags: ["AI", "artificial intelligence", "employement", "managers", "jobs"]
 categories: ["Opinion"]
 ---
-# Artificial Intelligence or Sacrificial Intelligence?
 
 By now, everyone has heard about **Artificial Intelligence** (AI) and the technological transformations it will bring, more so regarding the high probability of replacing people and eliminate some jobs. Will Artificial Intelligence replace people?
 But this is not the right question we should be asking.
