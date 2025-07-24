@@ -20,6 +20,8 @@ But this is not the right question we should be asking.
 The real question that everyone should be asking is not “*Will AI replace people?*”, but rather “*Will managers replace people with Artificial Intelligence?*”
 That presents the problem as it really is, and takes it to the people responsible to manage the situation and puts that decision responsibility in their hands.   
 
+  {{< img src="/posts/opinion/images/artificial-intelligence-or-sacrificial-intelligence.jpg" align="center" title="Artificial Intelligence or Sacrificial Intelligence?">}}
+  
 > The real question that everyone should be making is not “*Will Artificial Intelligence replace people?*”, but rather “*Will managers replace people with Artificial Intelligence?*”
 > 
 
