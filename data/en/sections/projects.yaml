@@ -49,6 +49,15 @@ projects:
 
 ### Personal and Hobbies
 
+- name: BitTicker
+  image: /images/sections/projects/bitticker.png
+  role: Creator, Developer and Maintainer
+  timeline: "2025 - Present"
+  repo: https://github.com/hvmonteiro/bitticker
+  #url: ""
+  summary: BitTicker is a lightweight and customizable cryptocurrency price ticker for Windows. It supports multiple major exchanges, real-time price updates, dark mode, and a clean, unobtrusive UI.
+  tags: ["personal", "trading", "crypto", "cryptocurrency", "exchange", "ticker", "csharp"]
+
 - name: Blessed Cryptos
   #logo: /images/sections/projects/blessed-cryptos-icon.jpg
   image: /images/sections/projects/blessed-cryptos.png
