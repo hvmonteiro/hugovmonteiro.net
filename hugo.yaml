@@ -1,6 +1,6 @@
 baseURL: https://hvmonteiro.github.io
 
-languageCode: bn
+languageCode: en
 title: "Hugo Monteiro . net"
 
 # Use Hugo modules to add theme
@@ -69,14 +69,14 @@ params:
     inverted: /images/site/main-logo-circle.png
     favicon: /images/site/favicon.png
 
-  # GitHub repo of your site
-  gitRepo: https://github.com/hvmonteiro/hugovmonteiro.net
+  # GitHub repo of your site to enable the <Improve This Page> button
+  #gitRepo: https://github.com/hvmonteiro/hugovmonteiro.net
   # Default branch of your Git repo
-  gitBranch: main
+  #gitBranch: main
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
-    maxVisibleSections: 5
+    maxVisibleSections: 4
 
   # Configure various features of this theme
   features:
@@ -100,7 +100,7 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: true
+      enable: false
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
@@ -118,7 +118,7 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:
@@ -177,7 +177,7 @@ params:
       enable: false
       services:
         kofi:
-          user: hossainemruz
+          user: hvmonteiro
           text: Tip Me
           textColor: '#f9fafc'
           backgroundColor: '#248aaa'
@@ -269,7 +269,7 @@ params:
     
     # Enables copy code button
     copyCodeButton:
-      enable: true
+      enable: false
 
     # Enable reading time support in post cards and in post pages
     readingTime:

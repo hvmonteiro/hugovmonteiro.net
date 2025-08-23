@@ -1,5 +1,5 @@
 # By default, the title corresponds to the website name, but you can change the title appearing on the navbar below:
-#navBarTitle: Custom Title
+# navBarTitle: Hugo Monteiro Website
 
 # Copyright Notice
 copyright: Copyright © 2025 Hugo Monteiro.
@@ -20,10 +20,14 @@ customMenus:
   # specify whether to show the menu item in footer or not.
   # if you set it to true, make sure you have set `footer.navigation.customMenus: true` in your config.yaml
   #< showOnFooter: false
+  - name: Publications
+    url: /publications/
+  - name: Intriguing Mind
+    url: https://intriguing-mind.substack.com/
 
 # Specify OpenGraph Headers
 openGraph:
-  title: Hugo's Blog
+  title: Hugo Monteiro's Blog
   type: website
   description: Portfolio and personal blog of Hugo Monteiro
   image: images/author/hvm-photo.png

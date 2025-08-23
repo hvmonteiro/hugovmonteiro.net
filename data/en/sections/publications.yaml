@@ -1,6 +1,6 @@
 # section information
 section:
-  name: My Essays
+  name: Publications
   id: publications
   enable: false
   weight: 6
