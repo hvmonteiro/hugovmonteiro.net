@@ -13,6 +13,18 @@
     display: flex;
 }
 
+/* On small screens */
+@media (max-width: 768px) {
+    .header-menu {
+        display: flex;
+        flex-direction: column;
+    }
+    .header-menu p {
+        margin-bottom: -1rem;
+    }
+
+}
+
 .header-title {
     font-size: 30px;
 }
@@ -231,6 +243,42 @@ hr {
 }
 
 
+/* Floating expandable TOC block */
+.toc {
+  position: fixed;
+  left: 0;
+  top: 50%;
+  width: 90px;
+  max-width: 200px;
+  height: 80px;
+  max-height: 80vh;
+  transform: translateY(-50%);
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 1em;
+  overflow: auto;
+  padding: 10px;
+  vertical-align: middle;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow-y: auto;
+  z-index: 1000;
+  display: block;
+  font-size: small;
+  ::-webkit-scrollbar { display: none; }
+  scrollbar-width: none;
+  ms-overflow-style: none;
+}
+
+.toc:hover {
+  width: 250px;
+  max-width: 250px;
+  height: auto;
+  display: block;
+  ::-webkit-scrollbar { display: thin; }
+  scrollbar-width: thin;
+  ms-overflow-style: thin;
+}
+
 .toc a {
     background-color: transparent;
     text-decoration: none;
@@ -241,62 +289,16 @@ hr {
     /* background-color: #f4f4f4; */
 }
 
-.toc {
-  position: fixed;
-  left: 0;
-  top: 180px;
-  background-color: #fff;
-  width: 190px;
-  max-height: 80%;
-  overflow: auto;
-  padding: 10px;
-  vertical-align: middle;
-  /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
-  font-size: small;
-}
-
-.toc:hover {
-  display: block;
-}
-
-/* Floating expandable TOC block */
-.toc {
-  position: fixed;
-  left: 0;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 90px;
-  max-width: 200px;
-  height: 90px;
-  background-color: #fff;
-  border: 1px solid #ccc;
-  padding: 1em;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  overflow-y: auto;
-  max-height: 80vh;
-  z-index: 1000;
-  display: block;
-  ::-webkit-scrollbar { display: none; }
-  scrollbar-width: none;
-  ms-overflow-style: none;
-}
-
-.toc:hover {
-  width: 250px;
-  max-width: 250px;
-  height: auto;
-  ::-webkit-scrollbar { display: thin; }
-  scrollbar-width: thin;
-  ms-overflow-style: thin;
-}
-
-/* Optional: Hide ToC on small screens */
+/* Hide ToC on small screens */
 @media (max-width: 768px) {
   .toc {
-    display: none;
-    font-size: var(--p-font-size);
-    line-height: calc(.9 * var(--p-line-height));
-    margin-top: var(--toc-margin-top);
-    margin-bottom: var(--toc-margin-bottom);
+      all: unset;
+      display: block;
+      font-size: var(--p-font-size);
+      line-height: calc(.9 * var(--p-line-height));
+      margin-top: var(--toc-margin-top);
+      margin-bottom: var(--toc-margin-bottom);
+      font-size: small;
+      text-decoration: underline;
   }
 }
