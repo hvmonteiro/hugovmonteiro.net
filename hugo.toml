@@ -27,18 +27,19 @@ homeIntroTitle = 'Hi!'
 homeIntroContent = """
 ![](/images/me-myself-and-i-bw-wallpaper.jpg)
 
-You reached the personal website of _Hugo Monteiro_, a technologist at heart and a senior **IT Solution Designer** and **Systems Architect** with over **_25 years of experience_** delivering impactful **IT and R&D solutions** across some of the world’s largest technology corporations.  
-You can check more about his career in his LinkedIn page [here](https://www.linkedin.com/in/hvmonteiro/).
+You reached the personal website of _Hugo Monteiro_, a **technologist** at heart and a senior **IT Solution Designer** and **Systems Architect** with over _25 years of experience_ delivering impactful _IT and R&D solutions_ across some of the world’s largest technology corporations.  
   
-Beyond technology, Hugo is deeply curious about life and society as a whole. He has a strong drive to understand how and why things work, always trying to go beyond the surface and explore subjects from the inside out.  
+Beyond technology, Hugo is deeply **curious** about life and society as a whole. He has a **strong drive** to understand how and why things work, always trying to go beyond the surface and explore subjects from the inside out.  
   
 _Hugo is also a **musician**, **DIY** enthusiast, **mechanics** aficionado and an avid **writer**._  
    
 You can check more about him in the [about](about) page.
   
-You should also check his recent publications in his blog **_Intriguing Mind_** on SubStack [here](https://intriguingmind.substack.com/), or in the local archive [here](/publications).
-
+You can check more about his career in his LinkedIn page [here](https://www.linkedin.com/in/hvmonteiro/).
+  
 The **_Musician side_** is found in it's dedicated website [here](https://www.hugovmonteiro.net).
+
+You should also check his recent publications in his blog **_Intriguing Mind_** on SubStack [here](https://intriguingmind.substack.com/), or in the local archive [here](/publications).
 """
 
 # Collection to display on home

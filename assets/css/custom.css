@@ -196,7 +196,7 @@ pre {
     white-space: -pre-wrap;
     white-space: -o-pre-wrap;
     word-wrap: break-word;
-    font-size: medium;
+    font-size: small;
 }
 
 hr {
