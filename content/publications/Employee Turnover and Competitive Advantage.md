@@ -1,13 +1,13 @@
 ---
-title: "Employee Turnover and Competitive Advantage"
-date: 2025-08-05T00:00:00+00:00
-description: Firing employees is like indirectly “selling” them to the competition.
-menu:
-  sidebar:
-    name: Corporations
-    identifier: Employee-Turnover-and-Competitive-Advantage
-    weight: 10
+title: Employee Turnover and Competitive Advantage
+summary: Firing employees is like indirectly “selling” them to the competition.
 tags: ["Competition", "Corporations", "Downsize", "Employees", "Firing", "Leadership", "Management", "People"]
+date: 2025-08-05T00:00:00+00:00
+author: Hugo Monteiro
+showTags: true
+toc: false
+readTime: true
+hidePagination: true
 categories: ["Corporations"]
 ---
 **Employee Turnover and Competitive Advantage**
@@ -34,5 +34,7 @@ So, high level managers should really think carefully before reducing staff. The
 Remember that a company is built and sustained through its people. Its effectiveness is directly correlated to who you hire, and who you let go.
 
   
+---
+_**Disclaimer*: This article and its contents are protected by copyright. Reproduction, distribution, or use of any part of this material without prior written permission from the author is strictly prohibited._
   
-**_Disclaimer: This article and its contents are protected by copyright. Reproduction, distribution, or use of any part of this material without prior written permission from the author is strictly prohibited._**
+_Copyright © Hugo V Monteiro_

@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+    {{ $tagsPage := eq .Title "Tags"}}
+
+<h1>{{ .Title }}</h1>
+    {{ if $tagsPage }}
+<div class="tag-container">
+    {{ else }}
+<div class="list-container">
+    {{ end }}
+
+    {{ .Content }}
+
+    {{ $paginationSize := 1}}
+    {{ if (gt .Site.Params.paginationTagsSize 0) }}
+    {{ $paginationSize = .Site.Params.paginationTagsSize }}
+    {{ end }}
+
+    {{ $paginator := .Paginate (.Pages) $paginationSize }}
+
+    {{ range $index, $page := $paginator.Pages }}
+
+    {{ if $tagsPage }}
+    {{ partial "tag-entry.html" $page}}
+    {{ else }}
+    {{ partial "post-entry.html" $page}}
+    {{ end }}
+
+    {{ end }}
+
+</div>
+
+    {{ partial "pagination-controls.html" $paginator}}
+
+{{ end }}

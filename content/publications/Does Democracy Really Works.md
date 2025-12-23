@@ -1,13 +1,13 @@
 ---
-title: "Does Democracy Really Works?"
-date: 2025-06-16T00:00:00+00:00
-description: Democracy is often inefficient, slow, and messy…and that’s by design.
-menu:
-  sidebar:
-    name: Society
-    identifier: does-democracy-really-works
-    weight: 10
+title: Does Democracy Really Works?
+summary: Democracy is often inefficient, slow, and messy…and that’s by design.
 tags: ["AI", "Artificial Intelligence", "Democracy", "leadership", "Society"]
+date: 2025-06-16T00:00:00+00:00
+author: Hugo Monteiro
+showTags: true
+toc: false
+readTime: true
+hidePagination: true
 categories: ["Society"]
 ---
 **Does Democracy Really Works?**
@@ -67,5 +67,7 @@ Whether it’s better than alternatives? As Churchill famously said, “Democrac
 Would you like to dig into any specific part — like democracy in crisis, or how corporations could become more democratic themselves?
 
   
+---
+_**Disclaimer*: This article and its contents are protected by copyright. Reproduction, distribution, or use of any part of this material without prior written permission from the author is strictly prohibited._
   
-**_Disclaimer: This article and its contents are protected by copyright. Reproduction, distribution, or use of any part of this material without prior written permission from the author is strictly prohibited._**
+_Copyright © Hugo V Monteiro_

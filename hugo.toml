@@ -1,0 +1,119 @@
+baseURL = 'https://www.hugovmonteiro.net/'
+languageCode = 'en-us'
+title = 'Hugo V Monteiro'
+
+# Google analytics code
+#googleAnalytics = "G-xxxxxxxxx"
+
+[module]
+[[module.imports]]
+path = "github.com/tomfran/typo"
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+#faviconPath = 'your-path'
+# Meta description
+description = 'Thoughts on technology, the world, and life.'
+
+# Appearance settings
+theme = 'light'                    # 'auto | light | dark'
+colorPalette = 'default'           # https://tomfran.github.io/typo-wiki/features/appearance/
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Hi!'
+homeIntroContent = """
+![](/images/me-myself-and-i-bw-wallpaper.jpg)
+
+You reached the personal website of _Hugo Monteiro_, a technologist at heart and a senior **IT Solution Designer** and **Systems Architect** with over **_25 years of experience_** delivering impactful **IT and R&D solutions** across some of the world’s largest technology corporations.  
+You can check more about his career in his LinkedIn page [here](https://www.linkedin.com/in/hvmonteiro/).
+  
+Beyond technology, Hugo is deeply curious about life and society as a whole. He has a strong drive to understand how and why things work, always trying to go beyond the surface and explore subjects from the inside out.  
+  
+_Hugo is also a **musician**, **DIY** enthusiast, **mechanics** aficionado and an avid **writer**._  
+   
+You can check more about him in the [about](about) page.
+  
+You should also check his recent publications in his blog **_Intriguing Mind_** on SubStack [here](https://intriguingmind.substack.com/), or in the local archive [here](/publications).
+
+The **_Musician side_** is found in it's dedicated website [here](https://www.hugovmonteiro.net).
+"""
+
+# Collection to display on home
+#homeCollectionTitle = 'Skills'
+#homeCollection = 'home'
+
+# Lists parameters
+paginationSize = 15
+paginationTagsSize = 50
+listSummaries = true # List summary OR first block of content of all articles
+listDateFormat = '2 Jan 2006'
+showListDate = false
+
+#showFooter = true
+footerContent = "_Copyright_ © 2026 _Hugo Monteiro_"
+
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = false # Set to false to hide the last crumb, i.e, the current page.
+home = "~"
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/hvmonteiro/"
+
+[[params.social]]
+name = "substack"
+url = "https://intriguingmind.substack.com/"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/hvmonteiro"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "publications"
+url = "/publications"
+
+[[params.menu]]
+name = "tags"
+url = "/tags"
+
+[[params.menu]]
+name = "intriguing mind"
+url = "https://intriguingmind.substack.com/"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"
+
+# https://umami.is/
+[params.umami] 
+enable = true
+websiteId = "unique-website-id"
+jsLocation = "http://example.org/umami.js"
+

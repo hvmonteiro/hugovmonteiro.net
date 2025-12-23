@@ -1,18 +1,16 @@
 ---
-title: "Automation Radiation Conundrum"
-date: 2025-08-05T00:00:00+00:00
-description: Why Wired Home Automation Still Makes the Most Sense
-menu:
-  sidebar:
-    name: Radiation
-    identifier: Compassion-at-Work
-    weight: 10
+title: Automation Radiation Conundrum
+summary: Why Wired Home Automation Still Makes the Most Sense
 tags: ["Automation", "Home", "Radiation", "Radiowave", "Wired", "Wireless"]
+date: 2025-08-05T00:00:00+00:00
+author: Hugo Monteiro
+showTags: true
+toc: true
+readTime: true
+hidePagination: true
 categories: ["Radiation"]
 ---
-**Automation Radiation Conundrum**
-
-### Why Wired Home Automation Still Makes the Most Sense
+## Why Wired Home Automation Still Makes the Most Sense
 
 In today’s world, many people are excited about "smart homes" full of wireless devices controlled by smartphones and cloud apps. But they bring with them some hidden problems, especially when it comes to long-term reliability, radiation exposure, cybersecurity, and compatibility with older homes.
 
@@ -123,5 +121,8 @@ The current automation trend is part of a bigger problem: the push toward "smart
 Home automation should be safe, stable, invisible, and helpful. It should work in the background, without asking for attention or maintenance. It should respect the fact that your home is not a smartphone and instead a long-term space that deserves long-term thinking.
 
 Wired systems are not just better - they are common sense. And in a world where everything seems to go wireless, choosing wires might be the smartest decision of all, for you, your family, and for the future. 
-
-***Disclaimer:** This article and its contents are protected by copyright. Reproduction, distribution, or use of any part of this material without prior written permission from the author is strictly prohibited.*
+  
+---
+_**Disclaimer*: This article and its contents are protected by copyright. Reproduction, distribution, or use of any part of this material without prior written permission from the author is strictly prohibited._
+  
+_Copyright © Hugo V Monteiro_

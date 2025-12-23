@@ -1,13 +1,14 @@
 ---
-title: "Why Higher Education Has Become a Bubble"
-date: 2025-06-16T00:00:00+00:00
-description: When the Price Outpaces the Value
-menu:
-  sidebar:
-    name: Society
-    identifier: Why-Higher-Education-Has-Become-a-Bubble
-    weight: 10
+title: Why Higher Education Has Become a Bubble
+summary: When the Price Outpaces the Value
 tags: ["Education", "University", "Professional", "Society", "Bubble", "Debt"]
+date: 2025-06-16T00:00:00+00:00
+author: Hugo Monteiro
+showTags: true
+showAuthor: true
+toc: true
+readTime: true
+hidePagination: true
 categories: ["Society"]
 ---
 
@@ -31,7 +32,7 @@ One important criticism of higher education today is that it is less about learn
 
 Finally, the most significant sign of a bubble is when people stop believing that the asset is worth the price. For higher education, this is already happening. More and more people are deciding that college is not worth the cost, especially when they can get valuable training and certification online, recognized by top companies, for a much lower price. This shift has forced many universities to create their own online courses and programs, not for educational innovation, but to keep enrollment and revenue high.
 
-In summary, higher education has become a bubble because its cost has risen far above its true value for most people. With technology, online learning, and the changing needs of the job market, the traditional degree is losing its unique place in society. Unless universities adapt and offer real value, the "pop" of this bubble may come sooner than we expect.
+In summary:, higher education has become a bubble because its cost has risen far above its true value for most people. With technology, online learning, and the changing needs of the job market, the traditional degree is losing its unique place in society. Unless universities adapt and offer real value, the "pop" of this bubble may come sooner than we expect.
 
 **Why Higher Education Has Become a Bubble**
 
@@ -55,9 +56,11 @@ Many critics, including me, say that universities often "format" students to thi
 
 Finally, the most significant sign of a bubble is when people stop believing that the asset is worth the price. For higher education, this is already happening. More and more people are deciding that college is not worth the cost, especially when they can get valuable training and certification online, recognized by top companies, for a much lower price. This shift has forced many universities to create their own online courses and programs—not for educational innovation, but to keep enrollment and revenue high, and avoid becoming obsolete.
 
-In summary, higher education has become a bubble because its cost has risen far above its true value for most people. With technology, online learning, and the changing needs of the job market, the traditional degree is losing its unique place in society. Unless universities adapt and offer real value, the "pop" of this bubble may come sooner than we expect.
+In summary:, higher education has become a bubble because its cost has risen far above its true value for most people. With technology, online learning, and the changing needs of the job market, the traditional degree is losing its unique place in society. Unless universities adapt and offer real value, the "pop" of this bubble may come sooner than we expect.
   
   
   
   
-**_Disclaimer: This article and its contents are protected by copyright. Reproduction, distribution, or use of any part of this material without prior written permission from the author is strictly prohibited._**
+_**Disclaimer**: This article and its contents are protected by copyright. Reproduction, distribution, or use of any part of this material without prior written permission from the author is strictly prohibited._
+  
+_Copyright © Hugo V Monteiro_

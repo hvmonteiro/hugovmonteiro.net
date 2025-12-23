@@ -1,27 +1,21 @@
 ---
-title: "Artificial Intelligence or Sacrificial Intelligence?"
-date: 2025-01-26T12:26:23+00:00
-hero: /publications/artificial-intelligence-or-sacrificial-intelligence.png
-description: Will AI replace people?
-theme: Toha
-author:
-  name: Hugo Monteiro
-menu:
-  sidebar:
-    name: Artificial Intelligence or Sacrificial Intelligence?
-    identifier: artificial-intelligence-or-sacrificial-intelligence
-    parent: artificial-intelligence
-    weight: 10
+title: Artificial Intelligence or Sacrificial Intelligence?
+summary: Will AI replace people or something else will?
 tags: ["AI", "Artificial Intelligence", "Employement", "Managers", "Leadership", "Jobs"]
+date: 2025-01-26T12:26:23+00:00
+author: Hugo Monteiro
+showTags: true
+toc: false
+readTime: true
+hidePagination: true
 categories: ["artificial-intelligence"]
 ---
-**Artificial Intelligence or Sacrificial Intelligence?**
 By now, everyone has heard about **Artificial Intelligence** (AI) and the technological transformations it will bring, more so regarding the high probability of replacing people and eliminate some jobs. Will Artificial Intelligence replace people?  
 But this is not the right question we should be asking.  
 The real question that everyone should be asking is not “*Will AI replace people?*”, but rather “*Will managers replace people with Artificial Intelligence?*”  
 That presents the problem as it really is, and takes it to the people responsible to manage the situation and puts that decision responsibility in their hands.   
   
-  {{< img src="/publications/artificial-intelligence-or-sacrificial-intelligence.png" align="center" height="400" width="600" title="Artificial Intelligence or Sacrificial Intelligence?">}}
+  ![Artificial Intelligence or Sacrificial Intelligence](/publications/artificial-intelligence-or-sacrificial-intelligence.png#dark#small "Artificial Intelligence or Sacrificial Intelligence")
   
 > The real question that everyone should be making is not “*Will Artificial Intelligence replace people?*”, but rather “*Will managers replace people with Artificial Intelligence?*”
 > 
@@ -33,5 +27,7 @@ Similarly to past technological advancements, the core issue with Artificial Int
 So, let us demand ethical and responsible decisions from those in positions of power, so that this doesn’t landslide from "***Artificial Intelligence***" to "***Sacrificial Intelligence***".  
  
   
+---
+_**Disclaimer*: This article and its contents are protected by copyright. Reproduction, distribution, or use of any part of this material without prior written permission from the author is strictly prohibited._
   
-**_Disclaimer: This article and its contents are protected by copyright. Reproduction, distribution, or use of any part of this material without prior written permission from the author is strictly prohibited._**
+_Copyright © Hugo V Monteiro_

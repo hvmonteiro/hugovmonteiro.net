@@ -1,0 +1,18 @@
+{{ with .Params.featured_image }}
+  {{- $imgName := . -}}
+  {{- $img := $.Resources.GetMatch $imgName -}}
+  {{- $src := $imgName -}}
+
+  {{- if $img -}}
+    {{- $resized := $img.Fit "1600x600" -}} {{/* adjust to taste */}}
+    {{- $src = $resized.RelPermalink -}}
+  {{- end -}}
+
+  <figure class="page-hero">
+    <img src="{{ $src }}" alt="{{ $.Params.featured_alt | default $.Title }}">
+    {{- with $.Params.featured_caption -}}
+      <figcaption>{{ . }}</figcaption>
+    {{- end -}}
+  </figure>
+{{ end }}
+

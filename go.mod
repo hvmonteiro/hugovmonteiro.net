@@ -1,9 +1,8 @@
-module github.com/hugo-toha/hugo-toha.github.io
+module github.com/hvmonteiro/hugovmonteiro.net
 
-go 1.21
+go 1.25.3
 
-require github.com/hugo-toha/toha/v4 v4.9.0 // indirect
-
-// replace(
-//     github.com/hugo-toha/toha/v4 => ../toha
-// )
+require (
+	github.com/tomfran/typo v1.16.0 // indirect
+	github.com/willfaught/paige v0.113.1 // indirect
+)

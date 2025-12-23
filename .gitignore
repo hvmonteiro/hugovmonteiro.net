@@ -3,3 +3,6 @@ resources/*
 node_modules/*
 public/*
 .hugo_build.lock
+hugo.log
+hugo_stats.json
+assets/jsconfig.json

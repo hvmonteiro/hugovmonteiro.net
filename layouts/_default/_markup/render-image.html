@@ -1,0 +1,16 @@
+{{- $p := .Page -}}
+{{- with .PageInner -}}
+  {{- with .Parent -}}
+    {{- $p = . -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $dest := .Destination | safeURL -}}
+{{- $img := $p.Resources.GetMatch $dest -}}
+
+{{- if $img -}}
+  <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ .Text }}">
+{{- else -}}
+  <img src="{{ $dest }}" alt="{{ .Text }}">
+{{- end -}}
+
