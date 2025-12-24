@@ -14,13 +14,16 @@ featured_alt: ""
 featured_caption: ""
 categories: ["artificial-intelligence"]
 ---
+# Artificial Intelligence or Sacrificial Intelligence?
+_Will AI replace people or something else will?_
+  
+  
 By now, everyone has heard about **Artificial Intelligence** (AI) and the technological transformations it will bring, more so regarding the high probability of replacing people and eliminate some jobs. Will Artificial Intelligence replace people?  
 But this is not the right question we should be asking.  
 The real question that everyone should be asking is not “*Will AI replace people?*”, but rather “*Will managers replace people with Artificial Intelligence?*”  
 That presents the problem as it really is, and takes it to the people responsible to manage the situation and puts that decision responsibility in their hands.   
   
-  ![Artificial Intelligence or Sacrificial Intelligence](/publications/artificial-intelligence-or-sacrificial-intelligence.png#dark#small "Artificial Intelligence or Sacrificial Intelligence")
-  
+ 
 > The real question that everyone should be making is not “*Will Artificial Intelligence replace people?*”, but rather “*Will managers replace people with Artificial Intelligence?*”
 > 
   

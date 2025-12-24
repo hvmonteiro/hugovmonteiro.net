@@ -14,6 +14,10 @@ featured_alt: ""
 featured_caption: ""
 categories: ["Society"]
 ---
+# Compassion at Work
+_It’s about recognizing that every individual possesses unique strengths, talents, and the ability to grow_
+  
+  
 Being compassionate basically means being respectful of the power and potential others have inside them. It’s about recognizing that every individual possesses unique strengths, talents, and the ability to grow — and honouring that by treating them with dignity, patience, and trust. Compassion, in this context, isn’t about rescuing or micromanaging; it’s about creating the conditions for others to thrive.
 
 >💡 Give your employees the tools to learn a new skill, and then step back and allow them to work things out for themselves.

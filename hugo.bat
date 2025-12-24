@@ -12,7 +12,7 @@ rem Optional "--" separator (ignored)
 if "%~1"=="--" shift
 
 rem Ensure hugo exists
-where hugo >nul 2>&1
+where hugo.exe >nul 2>&1
 if errorlevel 1 (
   echo Error: required command not found: hugo
   exit /b 127
@@ -33,12 +33,12 @@ goto :help_exit2
 
 :dev
 rem Pass remaining args directly to hugo server
-hugo server --cleanDestinationDir --watch --forceSyncStatic --buildExpired --buildDrafts --buildFuture --disableFastRender --navigateToChanged -D %*
+hugo.exe server --cleanDestinationDir --watch --forceSyncStatic --buildExpired --buildDrafts --buildFuture --disableFastRender --navigateToChanged -D %*
 exit /b %errorlevel%
 
 :prod
 rem Pass remaining args directly to hugo build
-hugo --templateMetrics --templateMetricsHints --cleanDestinationDir --minify %*
+hugo.exe --templateMetrics --templateMetricsHints --cleanDestinationDir --minify %*
 exit /b %errorlevel%
 
 :clean
@@ -64,7 +64,7 @@ if exist "%PUBLIC_DIR%" rmdir /s /q "%PUBLIC_DIR%"
 if exist "resources\_gen" rmdir /s /q "resources\_gen"
 
 rem Best effort: Hugo GC (ignore failure)
-hugo --gc --cleanDestinationDir >nul 2>&1
+hugo.exe --gc --cleanDestinationDir >nul 2>&1
 
 echo Clean completed.
 exit /b 0

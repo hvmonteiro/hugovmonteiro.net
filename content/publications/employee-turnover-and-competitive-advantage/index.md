@@ -14,7 +14,8 @@ featured_alt: ""
 featured_caption: ""
 categories: ["Corporations"]
 ---
-**Employee Turnover and Competitive Advantage**
+# Employee Turnover and Competitive Advantage
+_Firing employees is like indirectly “selling” them to the competition._
 
 When a company fires employees, especially skilled or experienced ones, it is not only losing manpower—it is also losing valuable organizational know-how. This know-how includes technical skills, internal processes, client relationships, and an understanding of company culture and strategy that takes years to build. These are not things that can be easily replaced, if ever, by hiring new people or using documentation.
 

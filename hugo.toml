@@ -97,8 +97,16 @@ url = "https://intriguingmind.substack.com/"
 name = "about"
 url = "/about"
 
-# Syntax highlight on code blocks
+
 [markup]
+
+
+[markup.tableOfContents]
+startLevel = 1
+endLevel = 6
+ordered = false
+
+# Syntax highlight on code blocks
 [markup.highlight]
 style = 'algol'
 

@@ -16,6 +16,7 @@ featured_caption: ""
 categories: ["Society"]
 ---
 # Why Higher Education Has Become a Bubble
+_When the Price Outpaces the Value_
   
 ## When the Price Outpaces the Value
 Many are saying that higher education has become a "bubble"— a term I only heard before related to housing or other similar industries. But not on education, this was the first time. So, as usual, I starting diving in into the subject, doing a bit of research, and as I kept reading more and more, I've started realizing that it reflected the opinion I have more quite some time, a situation where the price of higher education tuition is disconnected from its real usefulness in today's society, except within in a few special areas, and where the system is trying to avoid collapsing because people are losing faith in its value, and it's trying to reinvent itself by creating alternatives.
@@ -35,10 +36,10 @@ On the other hand, many industries started to create their own courses, with the
 ## The Real Problem
 One important criticism of higher education today is that it is less about learning real skills or knowledge and more about proving that a person can finish something. Many employers see a degree as proof that someone is reliable or good at memorizing, but not necessarily creative or able to think in new ways. Critics say that universities often "format" students to think alike and follow the same methods, rather than encouraging creativity or original thinking, and the main reason higher education is mainly creating workers instead of entrepreneurs. And if we take a real look at our society social classes, most wealth are from people that created their own way, or from people who choose higher education specifically targeted at entrepreneurship, investments and management, professions that lead to higher income.
 
-# The Bubble
+## The Bubble
 Finally, the most significant sign of a bubble is when people stop believing that the asset is worth the price. For higher education, this is already happening. More and more people are deciding that college is not worth the cost, especially when they can get valuable training and certification online, recognized by top companies, for a much lower price. This shift has forced many universities to create their own online courses and programs, not for educational innovation, but to keep enrollment and revenue high.
 
-## Conclusion
+# Conclusion
 In summary, higher education has become a bubble because its cost has risen far above its true value for most people. With technology, online learning, and the changing needs of the job market, the traditional degree is losing its unique place in society. Unless universities adapt and offer real value, the "pop" of this bubble may come sooner than we expect.
   
   

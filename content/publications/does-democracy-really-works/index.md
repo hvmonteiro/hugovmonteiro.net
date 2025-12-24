@@ -14,8 +14,8 @@ featured_alt: ""
 featured_caption: ""
 categories: ["Society"]
 ---
-**Does Democracy Really Works?**
-
+# Does Democracy Really Works?
+_Democracy is often inefficient, slow, and messy…and that’s by design._
 I’ve asked AI what it thinks about the following:
 
 ```
@@ -28,7 +28,7 @@ Here’s its answer, which is quite interesting nonetheless:
 
 That’s a thoughtful and provocative point — and you’re not alone in raising it. Many political philosophers, organizational theorists, and even technologists have asked similar questions about the limits of democracy, especially when comparing it to hierarchical structures like corporations. Here are a few key angles to consider:
 
-**Corporations vs. Democracies: Different Missions**
+## Corporations vs. Democracies: Different Missions
 
 Corporations and democracies are fundamentally different in purpose:
 
@@ -37,7 +37,7 @@ Corporations and democracies are fundamentally different in purpose:
 
 So no — corporations likely wouldn’t succeed if every internal decision was put to a vote. But that’s because they’re not trying to represent everyone equally — they’re trying to outperform competitors, often ruthlessly.
 
-**Democracy’s Strength: Legitimacy, Not Efficiency**
+## Democracy’s Strength: Legitimacy, Not Efficiency
 
 You’re absolutely right: democracy is often inefficient, slow, and messy. But that’s by design. Its strength lies in:
 
@@ -47,7 +47,7 @@ You’re absolutely right: democracy is often inefficient, slow, and messy. But 
 
 That doesn’t always make it effective in a crisis or optimal for rapid innovation. But it does make it robust over time — and more just in pluralistic societies.
 
-**Leadership Within Democracy Is Still Crucial**
+## Leadership Within Democracy Is Still Crucial
 
 You’re also right that every goal needs a direction and a leader. Democracies aren’t leaderless — they elect leaders. The real challenge is aligning long-term planning and expertise with short-term electoral cycles. Many democracies struggle here, especially when voters are uninformed, polarized, or manipulated.
 
@@ -59,7 +59,7 @@ Some democratic innovations aim to fix this, like:
 
 These try to blend leadership, expertise, and democratic legitimacy — rather than abandoning democracy altogether.
 
-**So, Does Democracy Work?**
+## So, Does Democracy Work?
 
 It depends on what we mean by “work”:
 
