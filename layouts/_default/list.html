@@ -13,7 +13,7 @@
 
     {{ $paginationSize := 1}}
     {{ if (gt .Site.Params.paginationTagsSize 0) }}
-    {{ $paginationSize = .Site.Params.paginationTagsSize }}
+        {{ $paginationSize = .Site.Params.paginationTagsSize }}
     {{ end }}
 
     {{ $paginator := .Paginate (.Pages) $paginationSize }}
@@ -21,9 +21,9 @@
     {{ range $index, $page := $paginator.Pages }}
 
     {{ if $tagsPage }}
-    {{ partial "tag-entry.html" $page}}
+        {{ partial "tag-entry.html" $page}}
     {{ else }}
-    {{ partial "post-entry.html" $page}}
+        {{ partial "post-entry.html" $page}}
     {{ end }}
 
     {{ end }}
