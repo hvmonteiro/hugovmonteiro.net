@@ -11,6 +11,8 @@ showTitle: false
 showDate: false
 hidePagination: true
 ---
+![](/images/me-myself-and-i-bw-wallpaper.jpg)
+  
 _Hugo Monteiro_ is a technologist at heart and currently a senior **IT Solution Designer** and **Systems Architect** with over **_25 years of experience_** delivering impactful **IT and R&D solutions** across some of the world’s largest technology corporations.  
 Located in Lisbon - Portugal, he's a member of the **Nokia’s Center of Excellence**, contributing to high-level architecture, system integration, and innovation at scale, and currently plays a strategic role in the **Software Configuration Management** (SCM) team responsible for **DevOps** platforms that manage the entire software development lifecycle for **Nokia's R&D**.  
 With a broad full-spectrum expertise across all layers of technology—from hardware and embedded systems to cloud platforms, **ERP solutions**, integration platforms, application development and full-cycle product release management.  
