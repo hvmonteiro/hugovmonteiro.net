@@ -1,7 +1,7 @@
 ---
 title: Internet Daily Life Sharing and the Illusion of Happiness
 summary: A public display as a way to validate the illusion of personal well-being.
-tags: ["Life", "Social Media", "Privacy", "Illusion", "Mental Issues"]
+tags: ["Social Media", "Psychology", "Privacy"]
 date: 2025-07-16T00:00:00+00:00
 author: Hugo Monteiro
 showTags: true

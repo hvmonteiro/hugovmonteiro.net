@@ -1,7 +1,7 @@
 ---
 title: Does Democracy Really Works?
 summary: Democracy is often inefficient, slow, and messy…and that’s by design.
-tags: ["AI", "Artificial Intelligence", "Democracy", "leadership", "Society"]
+tags: ["Artificial Intelligence", "Democracy", "Leadership", "Society"]
 date: 2025-06-16T00:00:00+00:00
 author: Hugo Monteiro
 showTags: true

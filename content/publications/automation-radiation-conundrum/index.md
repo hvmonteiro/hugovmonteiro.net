@@ -1,7 +1,7 @@
 ---
 title: Automation Radiation Conundrum
 summary: Why Wired Home Automation Still Makes the Most Sense
-tags: ["Automation", "Home", "Radiation", "Radiowave", "Wired", "Wireless"]
+tags: ["Home", "Automation", "Radiation"]
 date: 2025-08-05T00:00:00+00:00
 author: Hugo Monteiro
 showTags: true

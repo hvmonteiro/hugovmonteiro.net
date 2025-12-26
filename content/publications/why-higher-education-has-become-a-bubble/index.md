@@ -1,7 +1,7 @@
 ---
 title: Why Higher Education Has Become a Bubble
 summary: When the Price Outpaces the Value
-tags: ["Education", "University", "Professional", "Society", "Bubble", "Debt"]
+tags: ["Education", "Society", "Bubble", "Debt"]
 date: 2025-06-16T00:00:00+00:00
 author: Hugo Monteiro
 showTags: true
