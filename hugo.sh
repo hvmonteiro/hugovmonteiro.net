@@ -64,6 +64,7 @@ case "$MODE" in
       --buildFuture \
       --disableFastRender \
       --navigateToChanged \
+      --poll 700ms \
       -D
       "$@"
     ;;
