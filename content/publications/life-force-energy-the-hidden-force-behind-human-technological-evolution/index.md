@@ -1,7 +1,7 @@
 ---
 title: Life-Force Energy - The Hidden Force Behind Human Technological Evolution
 summary: The collective energy exchange of billions of people and next step in human evolution.
-tags: ["Life", "Society", "Technology", "Evolution"]
+tags: ["Life", "Society", "Technology", "Evolution", "Artificial Intelligencei"]
 date: 2025-08-17T00:00:00+00:00
 author: Hugo Monteiro
 showTags: true
