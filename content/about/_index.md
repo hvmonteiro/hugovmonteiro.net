@@ -1,5 +1,4 @@
 ---
-
 title: About
 summary: 
 date: 
@@ -20,21 +19,16 @@ hidePagination: true
 
 _Hugo Monteiro_ is deeply curious about life and society as a whole. He has a strong drive to understand how and why things work, always trying to go beyond the surface and explore subjects from the inside out.  
 
-## Employment
+## Professional Career
 
 *Hugo*, being a technologist at heart with a business oriented profile, is a senior **IT Solution Designer** and **Systems Architect** with over **_25 years of experience_** delivering impactful **IT and R&D solutions** across some of the world’s largest technology corporations.  
-
 
 Located in *Lisbon - Portugal*, he is currently employed and works at ***Nokia*** as member of the **Nokia’s Center of Excellence**, contributing to high-level architecture, system integration, and innovation at scale, and currently plays a strategic role in the **Software Configuration Management** (SCM) team responsible for **R&D DevOps** platforms that manages the entire software development lifecycle for all **Nokia's** product offerings.  
 With a broad full-spectrum expertise across all layers of technology—from hardware and embedded systems to cloud platforms, **ERP solutions**, integration platforms, application development and full-cycle product release management.  
 
-
-
 He has successfully managed cross-functional teams, led complex project lifecycles, and delivered secure, scalable, and maintainable systems across a range of industries, as well as corporate governance.
 
-
-
-You can check more about his professional career in his LinkedIn page [here](https://www.linkedin.com/in/hvmonteiro/).
+You can check more about his professional career in his LinkedIn profile [here](https://www.linkedin.com/in/hvmonteiro/).
 
 ## Beyond Technology
 
@@ -42,12 +36,9 @@ Beyond technology, *Hugo*'s curiosity naturally extends to virtually every area 
 
 ## The Musician
 
-Music has always been a constant in *Hugo*'s life. From having classical training in his early years in a renown music academy, to learning electric guitar on his own in his teens, which eventually led to him joining a band with a record contract and a booking agency, recording music albums and touring across Portugal and Europe.
+Music has always been a constant in *Hugo*'s life. From receiving a classical music education in his early years at a renowned national music academy, to teaching himself electric guitar during his teenage years, his musical path eventually led him to join a band that secured a multi-album record deal along with representation by a leading booking agency, recording albums and touring across Portugal and Europe.
 
-
-
-
-This unusual hobby further strengthened his skills in organization, planning and management.
+_This unusual hobby further strengthened his skills in organization, planning and management._
 
 ## D.I.Y. - Do It Yourself
 
@@ -55,20 +46,22 @@ Since *Hugo* has a strong drive to understand how and why things work and explor
 
 ## Mechanics & Motorcycles
 
- Mechanics, the pinnacle of engineering! Since an young age *Hugo* liked to dismantle and assemble toys - this eventually led him to lend a hand and help replacing small parts on his father's car, and later taking care of small regular maintenance work on his first car (that he still has to this day!). 
+ Mechanics, the pinnacle of engineering! Since a young age *Hugo* enjoyed to disassemble and assemble mechanical toys - as he aged, this eventually led him to lend a hand and help replacing small parts on his father's car, and later allowed him to do regular maintenance work on his first car (_that he still has to this day!_). 
 
-But, this interest for mechanical engineering was only out of necessity, not yet pursuit as a hobby yet...until motorcycles came to his existence - it was then that it became an hobby, doing full motorcycle maintenance and fixing problems for his and friends motorcycles.
+However, this interest in mechanical engineering initially emerged out of necessity rather than as a true hobby—until motorcycles entered his life. From that point on, it evolved into a genuine passion, leading him to perform complete motorcycle maintenance and troubleshoot mechanical issues on his own bikes as well as those of friends.
 
-On a side note, *Hugo* also creates and manages group motorcycle tours and weekend trips.
+_As a side note, *Hugo* also organizes and leads group motorcycle tours and weekend trips._
 
 ## An Avid Writer
 
 _Hugo is also an avid writer._
 
-Writing is both his voice and his tool: a way to express ideas, question assumptions, and invite others to look at familiar topics from a different perspective. Through writing, he organizes and “cleans” his mind of opinions and thought processes, while simultaneously challenging established norms and encouraging deeper reflection rather than passive acceptance.
+> "*Writing is both my voice and my tool to be heard: a way to express ideas, question assumptions, and invite others to look at familiar topics from a different perspective.*  
+> *Through writing, I organize and “clean” my mind of opinions and thought processes, while simultaneously challenging established norms and encouraging deeper reflection rather than passive acceptance."*  
+> ~ *Hugo V Monteiro*
 
-You can check his recent publications in the local archive [here](/publications) or in his active blog **_Intriguing Mind_** on SubStack [here](https://intriguingmind.substack.com/).  
+You can check his recent writings in the local archive [here](/publications) or in his active blog **_Intriguing Mind_** on SubStack [here](https://intriguingmind.substack.com/).  
 
 ## Contact
 
-You can contact *Hugo * through his email (if you find it - not publicly available due to SPAM), Social Media or LinkedIn.
+You can contact *Hugo * through his email (_if you find it - not publicly available due to SPAM_), his Social Media or LinkedIn profiles (_check the footer in this page_).

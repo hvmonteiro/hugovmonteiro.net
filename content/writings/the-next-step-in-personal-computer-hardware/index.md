@@ -9,13 +9,18 @@ showAuthor: true
 toc: false
 readTime: true
 hidePagination: true
+
 # Hero image for current post
+
 featured_image: "hero.jpg"
 featured_alt: ""
 featured_caption: ""
-categories: ["Artificial Intelligence"]
+categories: ["Technology"]
+
 ---
+
 # The Next Step in Personal Computer Hardware: Specialized CPUs for AI and LLM Tasks
+
 _Specialized CPUs for AI and LLM Tasks_
 
 The history of personal computers shows a continuous evolution by adding new hardware to handle specialized tasks more efficiently. In the early days, personal computers had just a main central processing unit (CPU) for computing, and a main controller unit to manage all integrated hardware. But soon users realized that some operations were too slow or complicated for a general-purpose CPU, and this led to the introduction of new specialized processors.
@@ -35,7 +40,7 @@ These specialized AI processors are expected to become as standard in personal c
 Just as personal computers have adopted new hardware for math, graphics, audio, networking, and security, the next step is the integration of specialized CPUs for AI and LLMs. This will open the door for even more advanced applications in our daily computing lives.
 
 --- 
-  
+
 _**Disclaimer**: This article and its contents are protected by copyright. Reproduction, distribution, or use of any part of this material without prior written permission from the author is strictly prohibited._
-  
+
 _Copyright © Hugo V Monteiro_

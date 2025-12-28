@@ -12,9 +12,12 @@ hidePagination: true
 featured_image: "hero.jpg"
 featured_alt: ""
 featured_caption: ""
-categories: ["Corporations"]
+categories: ["Leadership"]
+
 ---
+
 # Employee Turnover and Competitive Advantage
+
 _Firing employees is like indirectly “selling” them to the competition._
 
 When a company fires employees, especially skilled or experienced ones, it is not only losing manpower—it is also losing valuable organizational know-how. This know-how includes technical skills, internal processes, client relationships, and an understanding of company culture and strategy that takes years to build. These are not things that can be easily replaced, if ever, by hiring new people or using documentation.
@@ -30,7 +33,6 @@ Here’s how this works in practice:
 All of this are serious aspects to be concern about before deciding to fire people just to balance the account sheet, because ultimately, if the company is in a position that needs to reduce their headcount, as the last resort, it often reveals a bigger problem.
 
 > letting go of employees (…) can empower your competition with talent you have trained and knowledge you have built
-> 
 
 In this way, letting go of employees is not just a cost-cutting move - it can be a strategic misstep. It can empower your competition with talent you have trained and knowledge you have built, essentially strengthening your rivals at your own expense, while reducing your company's capacity and effectiveness in it's own industry against rival companies.
 
@@ -38,8 +40,8 @@ So, high level managers should really think carefully before reducing staff. The
 
 Remember that a company is built and sustained through its people. Its effectiveness is directly correlated to who you hire, and who you let go.
 
-  
 ---
+
 _**Disclaimer**: This article and its contents are protected by copyright. Reproduction, distribution, or use of any part of this material without prior written permission from the author is strictly prohibited._
-  
+
 _Copyright © Hugo V Monteiro_

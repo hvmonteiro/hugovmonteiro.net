@@ -13,8 +13,11 @@ featured_image: "hero.jpg"
 featured_alt: ""
 featured_caption: ""
 categories: ["Society"]
+
 ---
+
 # Does Democracy Really Works?
+
 _Democracy is often inefficient, slow, and messy…and that’s by design._
 I’ve asked AI what it thinks about the following:
 
@@ -70,8 +73,8 @@ Whether it’s better than alternatives? As Churchill famously said, “Democrac
 
 Would you like to dig into any specific part — like democracy in crisis, or how corporations could become more democratic themselves?
 
-  
 ---
+
 _**Disclaimer**: This article and its contents are protected by copyright. Reproduction, distribution, or use of any part of this material without prior written permission from the author is strictly prohibited._
-  
+
 _Copyright © Hugo V Monteiro_
