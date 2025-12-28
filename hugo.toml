@@ -37,7 +37,7 @@ You can check more about his professilnal career in his LinkedIn page [here](htt
   
 The **_Musician side_** is found in it's dedicated website [here](https://www.hugovmonteiro.com).
 
-You should also check his recent publications in his blog **_Intriguing Mind_** on SubStack [here](https://intriguingmind.substack.com/), or in the local archive [here](/publications).
+You should also check his recent publications in his blog **_Intriguing Mind_** on SubStack [here](https://intriguingmind.substack.com/), or in the local archive section [publications](/publications).
 """
 
 # Collection to display on home
@@ -84,12 +84,17 @@ name = "publications"
 url = "/publications"
 
 [[params.menu]]
+name = "tech corner"
+url = "/tech-corner"
+
+[[params.menu]]
 name = "tags"
 url = "/tags"
 
 [[params.menu]]
-name = "intriguing mind"
+name = "intriguing mind&#x2197"
 url = "https://intriguingmind.substack.com/"
+rel = "external"
 
 [[params.menu]]
 name = "about"
