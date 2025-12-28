@@ -5,7 +5,7 @@
     {{ if or (not (.Param "hideHeader")) .IsHome }}
 
     <h1 class="header-title">
-        <a href="{{ site.BaseURL }}">{{ site.Title }}</a>
+        <a href="{{ site.BaseURL }}">{{ site.Title | safeHTML }}</a>
     </h1>
 
     <h2 class="header-description">{{ site.Params.Description }}<h2>
@@ -20,11 +20,11 @@
             class="small {{ if eq .name (lower $currentPage.Name) }} bold {{end}}">
             <a href="{{ .url }}" {{ if and (isset . "newTab") .newTab
                 }}target="_blank" rel="noopener noreferrer" {{ end }}>
-                /{{.name }}
+                /{{.name | safeHTML }}
             </a>
         </p>
         {{ end }}
-        {{ end }}
+    {{ end }}
     </div>
 
     {{ end }}

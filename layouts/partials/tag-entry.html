@@ -2,7 +2,7 @@
   <div>
     <p class="tag-title">
       <a href="{{ .RelPermalink }}">
-        #{{ .Title }}
+        #{{ .Title | safeHTML }}
         <span class="tag-count">({{ len .Pages }})</span>
       </a>
     </p>

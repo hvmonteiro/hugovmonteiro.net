@@ -1,9 +1,9 @@
 ---
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 summary: ''
-tags: ["", "", "", "", "", ""]
+tags: ["", "", ""]
 date: '{{ .Date }}'
-author: 
+author: ''
 showTags: true
 toc: true
 readTime: true
@@ -13,5 +13,5 @@ featured_image: "hero.jpg"
 featured_alt: ""
 featured_caption: ""
 categories: [""]
-draft = true
+draft: true
 ---
