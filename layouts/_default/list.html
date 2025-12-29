@@ -1,6 +1,7 @@
 {{ define "main" }}
 
     {{ $tagsPage := eq .Title "Tags"}}
+    {{ $aboutPage := eq .Title "about"}}
 
 <h1>{{ .Title }}</h1>
     {{ if $tagsPage }}
@@ -21,11 +22,13 @@
 
     {{ range $index, $page := (sort $paginator.Pages) }}
 
-    {{ if $tagsPage }}
-        {{ partial "tag-entry.html" $page}}
-    {{ else }}
-        {{ partial "post-entry.html" $page}}
-    {{ end }}
+      {{ if $tagsPage }}
+        {{ partial "tag-entry.html" $page }}
+      {{ end }}
+
+      {{ if not $aboutPage }} 
+        {{ partial "post-entry.html" $page }}
+      {{ end }}
 
     {{ end }}
 

@@ -1,6 +1,6 @@
 ---
 title: "professional career"
-summary: ""
+summary: "&nbsp;"
 date: ""
 author: ""
 showTags: false
