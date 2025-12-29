@@ -19,7 +19,7 @@
 
     {{ $paginator := .Paginate (.Pages) $paginationSize }}
 
-    {{ range $index, $page := $paginator.Pages }}
+    {{ range $index, $page := (sort $paginator.Pages) }}
 
     {{ if $tagsPage }}
         {{ partial "tag-entry.html" $page}}
