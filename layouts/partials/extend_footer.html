@@ -2,6 +2,27 @@
 <script src="{{ "js/theme-switch.js" | relURL }}"></script>
 <script defer src="{{ "js/copy-code.js" | relURL }}"></script>
 
+
+  {{ if .Store.Get "hasMermaid" }}
+    {{ $mermaidDarkTheme := default "dark" (or .Params.mermaidDarkTheme .Site.Params.mermaidDarkTheme) }}
+    {{ $mermaidTheme := default "default" (or .Params.mermaidTheme .Site.Params.mermaidTheme) }}
+  <script 
+    type="module"
+    id="mermaid_script"
+    data-light-theme="{{ $mermaidTheme }}"
+    data-dark-theme="{{ $mermaidDarkTheme }}"
+    src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js">
+  </script>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: 'default'
+    });
+  </script>
+
+  {{ end }}
+
+
 <!-- Medium Zoom - A JavaScript library for zooming images like Medium -->
 <script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js"></script>
 <script>

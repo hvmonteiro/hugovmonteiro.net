@@ -25,7 +25,9 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
+{{< figure src="/images/home.jpg" class="figure" >}}  
 You reached the personal website of _Hugo Monteiro_, a **technologist** at heart and a senior **IT Solution Designer** and **Systems Architect** with over _25 years of experience_ delivering impactful _IT and R&D solutions_ across some of the world’s largest technology corporations.  
+  
 Outside the corporate environment, _Hugo_ has been actively involved in the [open-source](https://opensource.org/) movement, developing his own applications and tools whenever a specific need arises.
   
   
@@ -33,17 +35,17 @@ Beyond technology, Hugo is deeply **curious** about life and society as a whole.
   
 _Hugo is also a **musician**, **DIY** enthusiast, **mechanics** aficionado and an avid **writer**._  
    
-You can check more about him in the [about](about) page.
+You can check more **about** him in the [about](about) page.
   
 You can check more about his professional career in his LinkedIn page [here](https://www.linkedin.com/in/hvmonteiro/).
   
 The **_Musician side_** is found in it's dedicated website [here](https://www.hugovmonteiro.com).
 
-You should also check his recent writings in his blog **_Intriguing Mind_** on SubStack [here](https://intriguingmind.substack.com/), or on the local section [publications](/publications) at this site.
+You should also check his recent **writings** in his blog **_Intriguing Mind_** on SubStack [here](https://intriguingmind.substack.com/), or on the local section [publications](/publications) at this site.
 """
 
 # Collection to display on home
-#homeCollectionTitle = 'Skills'
+#homeCollectionTitle = 'writings'
 #homeCollection = 'home'
 
 # Lists parameters
@@ -55,6 +57,11 @@ showListDate = false
 
 #showFooter = true
 footerContent = "_Copyright_ © 2026 _Hugo Monteiro_"
+
+# Mermaid Diagrams
+#mermaidTheme = "neutral"
+[markup.goldmark.renderer]
+unsafe = true
 
 
 # Breadcrumbs
