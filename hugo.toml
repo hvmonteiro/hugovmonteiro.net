@@ -13,7 +13,7 @@ path = "github.com/tomfran/typo"
 tag = 'tags'
 
 [params]
-#faviconPath = 'your-path'
+faviconPath = '/images'
 # Meta description
 description = 'Thoughts on technology, the world, and life.'
 
@@ -87,7 +87,7 @@ url = "https://www.threads.com/@hugo.v.monteiro"
 
 [[params.social]]
 name = "Buy me a Coffee"
-url = "https://www.buymeacoffee.com/hvmonteiro"
+url = "https://buymeacoffee.com/hvmonteiro"
 icon = "fab fa-buymeacoffee"
 
 # Main menu pages
