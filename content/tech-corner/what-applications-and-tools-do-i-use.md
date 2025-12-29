@@ -1,7 +1,7 @@
 ---
 title: 'What Applications & Tools do I Use'
 summary: ''
-tags: ["Technology", "Applications", "Tools"]
+tags: ""
 date: '2025-12-27T21:26:05Z'
 showTags: false
 toc: true

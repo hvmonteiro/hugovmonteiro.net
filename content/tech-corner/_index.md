@@ -1,5 +1,5 @@
 ---
-title: Tech Corner
+title: tech corner
 author: Hugo Monteiro
 showTags: true
 showAuthor: true

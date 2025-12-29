@@ -1,34 +1,32 @@
 ---
-title: About
-summary: 
-date: 
-author: Hugo Monteiro
-showTags: true
-showAuthor: true
+title: "about"
+summary: ""
+date: ""
+author: ""
+showTags: false
+showAuthor: false
 toc: false
 readTime: false
 showTitle: false
 showDate: false
 hidePagination: true
-
+# Hero image for current post
+featured_image: "about.jpg"
+featured_alt: "Hugo Monteiro"
+featured_caption: ""
+categories: ["About"]
+draft: false
 ---
-
-![](/images/me-myself-and-i-bw-wallpaper.jpg)
-
 ## Who?
-
 _Hugo Monteiro_ is deeply curious about life and society as a whole. He has a strong drive to understand how and why things work, always trying to go beyond the surface and explore subjects from the inside out.  
 
 ## Professional Career
 
-*Hugo*, being a technologist at heart with a business oriented profile, is a senior **IT Solution Designer** and **Systems Architect** with over **_25 years of experience_** delivering impactful **IT and R&D solutions** across some of the world’s largest technology corporations.  
+*Hugo*, being a technologist at heart with a strong business oriented profile, is currently a senior **IT Solution Designer** and **Systems Architect**, member of a R&D systems architecture team, with over **_25 years of experience_** delivering impactful **IT and R&D solutions** across some of the world’s largest technology corporations.  
 
-Located in *Lisbon - Portugal*, he is currently employed and works at ***Nokia*** as member of the **Nokia’s Center of Excellence**, contributing to high-level architecture, system integration, and innovation at scale, and currently plays a strategic role in the **Software Configuration Management** (SCM) team responsible for **R&D DevOps** platforms that manages the entire software development lifecycle for all **Nokia's** product offerings.  
-With a broad full-spectrum expertise across all layers of technology—from hardware and embedded systems to cloud platforms, **ERP solutions**, integration platforms, application development and full-cycle product release management.  
+You can get more **details about his professional career** [here](professional-career/).
 
-He has successfully managed cross-functional teams, led complex project lifecycles, and delivered secure, scalable, and maintainable systems across a range of industries, as well as corporate governance.
-
-You can check more about his professional career in his LinkedIn profile [here](https://www.linkedin.com/in/hvmonteiro/).
+You can also visit his **_LinkedIn_** profile [here](https://www.linkedin.com/in/hvmonteiro/).
 
 ## Beyond Technology
 
@@ -64,4 +62,4 @@ You can check his recent writings in the local archive [here](/publications) or 
 
 ## Contact
 
-You can contact *Hugo * through his email (_if you find it - not publicly available due to SPAM_), his Social Media or LinkedIn profiles (_check the footer in this page_).
+You can contact *Hugo* through his email (_if you find it - not publicly available due to SPAM_) and his Social Media profiles.

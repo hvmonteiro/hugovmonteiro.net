@@ -1,5 +1,5 @@
 ---
-title: Writings
+title: writings
 author: Hugo Monteiro
 showTags: true
 showAuthor: false

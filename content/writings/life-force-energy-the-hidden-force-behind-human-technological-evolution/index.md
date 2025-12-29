@@ -15,7 +15,6 @@ featured_alt: ""
 featured_caption: ""
 categories: ["Life"]
 ---
-
 # Life-Force Energy - The Hidden Force Behind Human Technological Evolution
 
 _The collective energy exchange of billions of people and next step in human evolution._

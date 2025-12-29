@@ -2,16 +2,15 @@
 
 title: Projects
 summary: "&nbsp;"
+tags: ["Open-Source", "Projects"]
 showTags: false
 showAuthor: false
 toc: toc
 readTime: false
 hidePagination: true
 listSummary: false
-
 # Hero image for current post
-
-featured_image: ""
+featured_image: "hero.jpg"
 featured_alt: ""
 featured_caption: ""
 draft: true
