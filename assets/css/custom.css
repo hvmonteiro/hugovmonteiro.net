@@ -56,7 +56,6 @@
 figure,
 figure div,
 figure img,
-img,
 svg {
     vertical-align: middle;
     border-radius: 1rem !important;
@@ -66,6 +65,13 @@ svg {
     aspect-ratio: auto 1280 / 720;
     height: 20rem;
     width: 100%;
+    margin: 0;
+    margin-top: 2rem;
+}
+
+img {
+    height: auto;
+    width: auto;
 }
 
 
@@ -170,6 +176,7 @@ svg {
     /* box-shadow: 0px 10px 30px -5px rgba(0, 0, 0, 0.1);*/
     margin-top: 20px;
     text-align: justify;
+    padding-top: 0px;
 }
 
 .list-container .heading {
@@ -293,6 +300,7 @@ hr {
 
 /* Hide ToC on small screens */
 @media (max-width: 768px) {
+  .toc:hover,
   .toc {
       all: unset;
       display: block;
@@ -302,5 +310,8 @@ hr {
       margin-bottom: var(--toc-margin-bottom);
       font-size: small;
       text-decoration: underline;
+  }
+  .toc:hover {
+      text-decoration: none;
   }
 }

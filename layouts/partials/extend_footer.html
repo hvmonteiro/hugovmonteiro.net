@@ -1,0 +1,22 @@
+
+<script src="{{ "js/theme-switch.js" | relURL }}"></script>
+<script defer src="{{ "js/copy-code.js" | relURL }}"></script>
+
+<!-- Medium Zoom - A JavaScript library for zooming images like Medium -->
+<script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js"></script>
+<script>
+  mediumZoom('.content img', { margin: 24, background: '#000' })
+</script>
+
+<!-- Open external links in a new page -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll('a[href]').forEach(function(link) {
+    if (link.hostname !== window.location.hostname) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener external nofollow');
+    }
+  });
+});   
+</script>
+

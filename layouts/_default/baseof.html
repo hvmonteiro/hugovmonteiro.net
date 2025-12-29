@@ -38,18 +38,7 @@
   {{ end }}
 </body>
 
-<script src="{{ "js/theme-switch.js" | relURL }}"></script>
-<script defer src="{{ "js/copy-code.js" | relURL }}"></script>
 
-<script>
-<!-- Open external links in a new page -->
-document.addEventListener("DOMContentLoaded", function() {
-  document.querySelectorAll('a[href]').forEach(function(link) {
-    if (link.hostname !== window.location.hostname) {
-      link.setAttribute('target', '_blank');
-      link.setAttribute('rel', 'noopener external nofollow');
-    }
-  });
-});   
-</script>
+    {{ partial "extend_footer.html" . }}
+
 </html>

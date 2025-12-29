@@ -1,4 +1,4 @@
-{{ with .Params.featured_image }}
+{{ with .Resources.GetMatch .Params.featured_image }}
   {{- $imgName := . -}}
   {{- $img := $.Resources.GetMatch $imgName -}}
   {{- $src := $imgName -}}
