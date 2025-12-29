@@ -24,10 +24,11 @@
 
       {{ if $tagsPage }}
         {{ partial "tag-entry.html" $page }}
-      {{ end }}
+      {{ else }}
 
-      {{ if not $aboutPage }} 
-        {{ partial "post-entry.html" $page }}
+        {{ if not $aboutPage }} 
+          {{ partial "post-entry.html" $page }}
+        {{ end }}
       {{ end }}
 
     {{ end }}
