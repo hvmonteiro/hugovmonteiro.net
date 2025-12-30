@@ -44,7 +44,7 @@ This is what I call a silent corporate takeover. Not in terms of ownership, but 
 
 The biggest irony? Many companies are doing this to “gain agility” — but what they actually gain is dependence.
 
-# A Corporate Conundrum of Cross-Dependency
+## A Corporate Conundrum of Cross-Dependency
 
 With this strategy, higher management is unknowingly creating a dangerous cross-dependency between corporations — all under the illusion of improved performance and reduced costs. But what we’re actually seeing is a growing corporate conundrum, where the interconnection of outsourced services makes the entire ecosystem fragile.
 
@@ -60,7 +60,7 @@ A body that ensures it is resilient and tolerant to this type of systemic failur
 
 It’s no longer just a business decision — it’s a societal one.
 
-# The Strategic Blind Spot
+## The Strategic Blind Spot
 
 What makes this worse is the lack of long-term thinking. Many of today’s managers didn’t grow up in the era of internal IT ownership. They were trained in a context where outsourcing and cloud services were the norm. So, they see internal IT departments as slow, expensive, or unnecessary — without realising the hidden value of control, expertise, and independence.
   
