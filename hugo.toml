@@ -48,6 +48,9 @@ You should also check his recent **writings** in his blog **_Intriguing Mind_** 
 #homeCollectionTitle = 'writings'
 #homeCollection = 'home'
 
+# Content Directory
+contentDir = "content"
+
 # Lists parameters
 paginationSize = 15
 paginationTagsSize = 50
@@ -83,19 +86,19 @@ url = "https://intriguingmind.substack.com/"
 name = "GitHub"
 url = "https://github.com/hvmonteiro"
 
-[[params.social]]
-name = "Mastodon"
-url = "https://mastodon.online/@hvmonteiro"
+#[[params.social]]
+#name = "Mastodon"
+#url = "https://mastodon.online/@hvmonteiro"
 
-[[params.social]]
-name = "Threads"
-icon = "fab fa-threads"
-url = "https://www.threads.com/@hugo.v.monteiro"
+#[[params.social]]
+#name = "Threads"
+#icon = "fab fa-threads"
+#url = "https://www.threads.com/@hugo.v.monteiro"
 
-[[params.social]]
-name = "Buy me a Coffee"
-url = "https://buymeacoffee.com/hvmonteiro"
-icon = "fab fa-buymeacoffee"
+#[[params.social]]
+#name = "Buy me a Coffee"
+#url = "https://buymeacoffee.com/hvmonteiro"
+#icon = "fab fa-buymeacoffee"
 
 # Main menu pages
 [[params.menu]]
@@ -128,7 +131,7 @@ url = "/about"
 
 
 [markup.tableOfContents]
-startLevel = 1
+startLevel = 2
 endLevel = 6
 ordered = false
 

@@ -3,24 +3,33 @@
     {{ $tagsPage := eq .Title "Tags"}}
     {{ $aboutPage := eq .Title "about"}}
 
+    {{ $paginationSize := 1}}
+    {{ if $tagsPage }}
+      {{ if (gt .Site.Params.paginationTagsSize 0) }}
+        {{ $paginationSize = .Site.Params.paginationTagsSize }}
+      {{ end }}
+    {{ else }}
+      {{ $paginationSize = .Site.Params.paginationSize }}
+    {{ end }}
+
+    {{ $paginator := .Paginate (.Pages) $paginationSize }}
+
 <h1>{{ .Title }}</h1>
     {{ if $tagsPage }}
 <div class="tag-container">
     {{ else }}
 <div class="list-container">
-      {{ partial "featured-image.html" . }}
+      {{ if (eq $paginator.PageNumber 1) }}
+        {{ partial "featured-image.html" . }}
+      {{ end }}
     {{ end }}
 
-    {{ .Content }}
 
-    {{ $paginationSize := 1}}
-    {{ if (gt .Site.Params.paginationTagsSize 0) }}
-        {{ $paginationSize = .Site.Params.paginationTagsSize }}
+    {{ if (eq $paginator.PageNumber 1) }}
+      {{ .Content }}
     {{ end }}
 
-    {{ $paginator := .Paginate (.Pages) $paginationSize }}
-
-    {{ range $index, $page := (sort $paginator.Pages) }}
+    {{ range $index, $page := (sort $paginator.Pages).ByDate.Reverse }}
 
       {{ if $tagsPage }}
         {{ partial "tag-entry.html" $page }}
