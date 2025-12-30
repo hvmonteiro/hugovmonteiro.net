@@ -48,7 +48,7 @@ The biggest irony? Many companies are doing this to “gain agility” — but w
 
 With this strategy, higher management is unknowingly creating a dangerous cross-dependency between corporations — all under the illusion of improved performance and reduced costs. But what we’re actually seeing is a growing corporate conundrum, where the interconnection of outsourced services makes the entire ecosystem fragile.
 
-> Shouldn’t there be an authority — public or neutral — to plan and guide the foundational infrastructure of our society?
+> _society, for a moment, was nearly brought to a stop._
 
 We saw the consequences of this clearly in 2024 with the CrowdStrike issue — a single security incident that rippled across multiple industries and brought operations to a halt. Entire sectors were impacted. Critical systems went down. And society, for a moment, was nearly brought to a stop.
 
