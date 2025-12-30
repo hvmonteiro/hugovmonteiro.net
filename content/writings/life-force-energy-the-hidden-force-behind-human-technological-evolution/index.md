@@ -50,7 +50,7 @@ Perhaps the next step for humanity is not just to ride this wave unconsciously, 
 
 ---
 
-# The Next Step for Humanity: AI
+## The Next Step for Humanity: AI
 
 With the arrival of Artificial Intelligence, humanity stands at the threshold of yet another quantum leap in evolution. Everything that has been achieved so far—the stacking of human effort, the energy exchange of billions of lives—has prepared the ground for this moment. Now, the same principle continues, but with a new dimension: the participation of machines.
 
@@ -64,7 +64,7 @@ In this sense, AI becomes part of the same river of energy exchange—still chao
 
 ---
 
-# AI as Amplifier and the Compression of Time
+## AI as Amplifier and the Compression of Time
 
 The discoveries and creations we see emerging through AI are still fundamentally human at their origin. Every dataset, every model, every framework was born from human intention, curiosity, and design. But once set in motion, AI acts as an amplifier, taking the seeds of our efforts and multiplying their growth at unprecedented speed.
 
@@ -84,7 +84,7 @@ This is why AI is not just another tool, but a **quantum leap in human evolution
 
 ---
 
-# The Illusion of Threat
+## The Illusion of Threat
 
 Human beings carry within them a deep instinct of caution, shaped by millennia of survival. Every new force encountered—fire, electricity, nuclear power, the internet—has first been seen as a potential threat. Artificial Intelligence is no exception. The rise of thinking machines awakens both awe and fear, with imaginations often rushing to dystopian scenarios of domination or loss of control.
 
@@ -98,7 +98,7 @@ The future, therefore, is not in the hands of machines, but in our own. AI is th
 
 ---
 
-# The Risk of Over-Delegation and the Preservation of Life Foundations
+## The Risk of Over-Delegation and the Preservation of Life Foundations
 
 While AI promises to amplify and accelerate human progress, there is also a shadow to this acceleration: the danger of over-delegation. If humanity hands over not only tasks but the very foundations of life and society to machines, we risk creating a generation that no longer remembers how to sustain itself without them.
 
@@ -114,7 +114,7 @@ Teaching the basics is not a step backward; it is the anchor that keeps progress
 
 ---
 
-# Vision Statement
+## Vision Statement
 
 We stand at the edge of a new era, where the river of human energy merges with the electric current of artificial minds. Fear will tempt us to see shadows where there are none. But if we look deeper, we will see that AI is not our enemy—it is our echo, our reflection, our extension.
 
@@ -123,6 +123,7 @@ The question is not whether AI will shape the future. It already will.
 The question is: **what intention will we pour into it?**
 
 For in the end, it is not the algorithm that decides. It is us—the billions exchanging energy every day—who hold the power to guide this leap. And if we choose wisely, the current of humanity, now flowing faster than ever, can carry us not into collapse, but into the brightest future we have ever imagined.
+
 
 --- 
 

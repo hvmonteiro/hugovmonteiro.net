@@ -14,3 +14,12 @@ featured_caption: ""
 Here you can find personal projects as well as technical articles written throughout the years.  
   
 ---  
+
+## Developer Profiles
+[hvmonteiro @ GitHub.com](https://github.com/hvmonteiro)  
+[hvmonteiro @ Gists.GitHub.com](https://gist.github.com/hvmonteiro)  
+[hvmonteiro @ Dev.To](https://dev.to/hvmonteiro)  
+  
+---  
+  
+## Articles

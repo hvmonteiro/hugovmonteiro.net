@@ -1,7 +1,7 @@
 ---
 title: Compassion at Work
 summary: It’s about recognizing that every individual possesses unique strengths, talents, and the ability to grow
-tags: ["Psychology", "Business", "Compassion"]
+tags: ["Psychology", "Business", "Compassion", "People"]
 date: 2025-01-26T00:00:00+00:00
 author: Hugo Monteiro
 showTags: true

@@ -1,11 +1,11 @@
 ---
 title: Does Democracy Really Works?
 summary: Democracy is often inefficient, slow, and messy…and that’s by design.
-tags: ["Artificial Intelligence", "Democracy", "Leadership", "Society"]
-date: 2025-06-16T00:00:00+00:00
+tags: ["Artificial Intelligence", "Democracy", "Society", "Leadership"]
+date: 2025-07-16T00:00:00+00:00
 author: Hugo Monteiro
 showTags: true
-toc: false
+toc: true
 readTime: true
 hidePagination: true
 # Hero image for current post
@@ -18,8 +18,9 @@ categories: ["Society"]
 
 # Does Democracy Really Works?
 
-_Democracy is often inefficient, slow, and messy…and that’s by design._
-I’ve asked AI what it thinks about the following:
+_Democracy is often inefficient, slow, and messy…and that’s by design._  
+  
+**I’ve asked AI what it thinks about the following:**
 
 ```
 Does democracy really works? Just look at corporations, would they achieve the same level of success if everything was up for a vote? Every goal needs a direction, every direction needs a decision, every decision needs a leader to make it, plan it and make it happen. This very rarely works with a group of people. What do you think?
