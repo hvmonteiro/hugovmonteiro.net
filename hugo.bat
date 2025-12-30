@@ -32,7 +32,7 @@ echo.
 goto :help_exit2
 
 :dev
-call hugo clean
+rem hugo clean
 rem Pass remaining args directly to hugo server
 hugo.exe server --cleanDestinationDir --watch --forceSyncStatic --buildExpired --buildDrafts --buildFuture --disableFastRender --navigateToChanged --poll 700ms -D %*
 exit /b %errorlevel%
