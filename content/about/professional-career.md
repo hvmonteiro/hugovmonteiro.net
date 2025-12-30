@@ -15,7 +15,6 @@ featured_image: "professional-career.png"
 featured_alt: "Professional Career Timeline"
 featured_caption: "Professional Career Timeline"
 categories: ["about"]
-draft: false
 ---
 With over **_25 years of experience_**, _Hugo Monteiro_ has delivered impactful **IT and R&D solutions** across some of the world’s largest technology corporations.  
 With a broad full-spectrum expertise across all layers of technology—from hardware and embedded systems, to datacenter management, networks, cyber security, **cloud platforms** integration, **ERP** cross-application integration, integration platforms as a service (**iPaaS**), application **development** and full-cycle product release management (**DevOps** and **CI/CD**), _Hugo_ has done it all in the technical side of the industry.

@@ -15,7 +15,6 @@ featured_image: "about.jpg"
 featured_alt: "Hugo Monteiro"
 featured_caption: ""
 categories: ["About"]
-draft: false
 ---
 ## Who?
 _Hugo Monteiro_ is deeply curious about life and society as a whole. He has a strong drive to understand how and why things work, always trying to go beyond the surface and explore subjects from the inside out.  

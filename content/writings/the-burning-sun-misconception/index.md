@@ -15,6 +15,7 @@ featured_caption: ""
 categories: ["Science"]
 ---
 # The Sun Doesn't "Burn" as We Think
+_The misunderstood heat of the Sun: science vs fiction._
 
 The idea that "the Sun burns hot" is a common assumption, but it’s technically misleading or, at least, incomplete. The Sun itself doesn’t "burn" in the traditional sense like fire or flames. Instead, it emits radiation — a wide spectrum of electromagnetic waves — which travel through space until they reach Earth.
 
