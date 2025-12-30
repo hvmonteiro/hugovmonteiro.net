@@ -2,7 +2,7 @@
 title: 'The Burning Sun Misconception'
 summary: 'The misunderstood heat of the Sun: science vs fiction'
 tags: ["Universe", "Science", "Psychology"]
-date: '2025-12-30T00:10:20Z'
+date: '2025-12-28T00:10:20Z'
 author: ""
 showTags: true
 toc: true

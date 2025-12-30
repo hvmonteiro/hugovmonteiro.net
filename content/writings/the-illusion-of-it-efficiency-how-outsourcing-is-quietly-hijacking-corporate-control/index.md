@@ -2,7 +2,7 @@
 title: 'The Illusion of IT Efficiency - How Outsourcing Is Quietly Hijacking Corporate Control'
 summary: 'In chasing short-term savings, companies are surrendering their digital backbone — and putting society at risk of systemic collapse.'
 tags: ["Business", "Leadership", "Strategy", "Society"]
-date: '2025-12-30T02:48:32Z'
+date: '2025-09-30T02:48:32Z'
 author: ""
 showTags: true
 toc: true

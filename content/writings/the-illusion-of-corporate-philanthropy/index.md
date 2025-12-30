@@ -2,7 +2,7 @@
 title: 'The Illusion of Corporate Philanthropy'
 summary: 'Why is nonprofit corporate funding rarely quiet or discreet?'
 tags: ["Business", "Society", "Finance"]
-date: '2025-12-30T01:26:32Z'
+date: '2025-12-25T01:26:32Z'
 author: ""
 showTags: true
 toc: true

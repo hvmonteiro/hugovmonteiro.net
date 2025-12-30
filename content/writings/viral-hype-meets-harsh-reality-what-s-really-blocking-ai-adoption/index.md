@@ -2,7 +2,7 @@
 title: "Viral Hype Meets Harsh Reality - What's Really Blocking AI Adoption"
 summary: 'Too Fast, Too Soon: The Hidden Resistance Behind the AI Boom'
 tags: ["Artificial Intelligence", "Technology", "Society", "Energy"]
-date: '2025-12-30T01:56:24Z'
+date: '2025-10-01T01:56:24Z'
 author: ""
 showTags: true
 toc: true
