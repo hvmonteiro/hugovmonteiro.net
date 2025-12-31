@@ -2,7 +2,7 @@
 title: Why Higher Education Has Become a Bubble
 summary: When the Price Outpaces the Value
 tags: ["Education", "Society", "Finance", "Bubble", "Debt"]
-date: 2025-06-16T00:00:00+00:00
+date: 2025-08-13T00:00:00+00:00
 author: Hugo Monteiro
 showTags: true
 showAuthor: true
@@ -22,8 +22,6 @@ categories: ["Society"]
 # Why Higher Education Has Become a Bubble
 
 _When the Price Outpaces the Value_
-
-## When the Price Outpaces the Value
 
 Many are saying that higher education has become a "bubble"— a term I only heard before related to housing or other similar industries. But not on education, this was the first time. So, as usual, I starting diving in into the subject, doing a bit of research, and as I kept reading more and more, I've started realizing that it reflected the opinion I have more quite some time, a situation where the price of higher education tuition is disconnected from its real usefulness in today's society, except within in a few special areas, and where the system is trying to avoid collapsing because people are losing faith in its value, and it's trying to reinvent itself by creating alternatives.
 
