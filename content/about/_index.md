@@ -51,13 +51,13 @@ _As a side note, *Hugo* also organizes and leads group motorcycle tours and week
 
 ## An Avid Writer
 
-_Hugo is also an avid writer._
+_Hugo is also an avid writer,_ and with the advent of Artificial Intelligence, his writings took an exponential upturn.
 
 > "*Writing is both my voice and my tool to be heard: a way to express ideas, question assumptions, and invite others to look at familiar topics from a different perspective.*  
 > *Through writing, I organize and “clean” my mind of opinions and thought processes, while simultaneously challenging established norms and encouraging deeper reflection rather than passive acceptance."*  
 > ~ *Hugo V Monteiro*
 
-You can check his recent writings in the local archive [here](/publications) or in his active blog **_Intriguing Mind_** on SubStack [here](https://intriguingmind.substack.com/).  
+You can check his recent writings in the local archive [here](/writings) or in his active blog **_Intriguing Mind_** on SubStack [here](https://intriguingmind.substack.com/). Since the advent of Artificial Intelligence, his writings took an exponential upturn.
 
 ## Contact
 
