@@ -34,7 +34,7 @@ goto :help_exit2
 :dev
 rem hugo clean
 rem Pass remaining args directly to hugo server
-hugo.exe server --cleanDestinationDir --watch --forceSyncStatic --buildExpired --buildDrafts --buildFuture --disableFastRender --navigateToChanged --poll 700ms -D %*
+hugo.exe server --cleanDestinationDir --watch --forceSyncStatic --buildExpired --buildDrafts --buildFuture --disableFastRender --navigateToChanged --poll 500ms -D %*
 exit /b %errorlevel%
 
 :prod
