@@ -2,7 +2,7 @@
 title: The Next Step in Personal Computer Hardware
 summary: Specialized CPUs for AI and LLM Tasks
 tags: ["Artificial Intelligence", "Technology", "Hardware", "Next Gen"]
-date: 2022-07-22T13:19:00+00:00
+date: 2023-07-22T13:19:00+00:00
 author: Hugo Monteiro
 showTags: true
 showAuthor: true
