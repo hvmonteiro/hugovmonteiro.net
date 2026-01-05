@@ -15,7 +15,7 @@ tag = 'tags'
 [params]
 faviconPath = '/images'
 # Meta description
-description = 'Thoughts on technology, the world, and life.'
+description = 'Thoughts on life, society, the world, and technology.'
 
 # Appearance settings
 theme = 'light'                    # 'auto | light | dark'
