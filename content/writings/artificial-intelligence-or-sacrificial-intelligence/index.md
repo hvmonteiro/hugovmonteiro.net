@@ -27,6 +27,8 @@ That presents the problem as it really is, and takes it to the people responsibl
 
 > The real question that everyone should be making is not “*Will Artificial Intelligence replace people?*”, but rather “*Will managers replace people with Artificial Intelligence?*”
 
+![hero.webp](hero.webp)
+
 This effectively shifts the focus from the technological aspect to the human dimension, accurately capturing the core issue at hand, and places the responsibility for managing the situation in the hands of those really accountable.  
 The right question makes those accountable urged to make decisions that prioritise the collective good.  
 And therein lies the focal point where society should direct its attention and questions.  

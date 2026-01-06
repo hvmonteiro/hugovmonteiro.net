@@ -9,7 +9,7 @@ toc: true
 readTime: true
 hidePagination: true
 # Hero image for current post
-featured_image: ""
+featured_image: "hero.webp"
 featured_alt: ""
 featured_caption: ""
 categories: ["Science"]
