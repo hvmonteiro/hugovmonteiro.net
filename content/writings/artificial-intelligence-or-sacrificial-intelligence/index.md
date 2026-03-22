@@ -2,7 +2,7 @@
 title: Artificial Intelligence or Sacrificial Intelligence?
 summary: Will AI replace people or something else will?
 tags: ["Artificial Intelligence", "Leadership", "Jobs"]
-date: 2025-01-26T12:26:23+00:00
+date: 2026-01-26T12:26:23+00:00
 author: Hugo Monteiro
 showTags: true
 toc: false
