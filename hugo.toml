@@ -56,7 +56,7 @@ paginationSize = 15
 paginationTagsSize = 50
 listSummaries = true # List summary OR first block of content of all articles
 listDateFormat = '2 Jan 2006'
-showListDate = false
+showListDate = true
 
 #showFooter = true
 footerContent = "_Copyright_ © 2026 _Hugo Monteiro_"

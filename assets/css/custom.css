@@ -203,6 +203,17 @@ img {
     text-decoration: none;
 }
 
+.line-date {
+  font-size: x-small;
+  font-family: var(--font-mono);
+  min-width: 120px;
+  max-width: 120px;
+  text-align: right;
+  padding-right: 1rem;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
+
 blockquote p {
     color: #0f0f0f;
     background-color: #efefef;
