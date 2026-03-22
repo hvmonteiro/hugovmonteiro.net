@@ -1,4 +1,4 @@
-—
+---
 title: AI and Professional Transparency
 summary: Artificial Intelligence and the Coming Transparency of Professional Skill
 tags: [“Artificial Intelligence”, “employment”, “Jobs”, “people”]
@@ -13,8 +13,10 @@ featured_image: “hero.png”
 featured_alt: “”
 featured_caption: “”
 categories: [“artificial-intelligence”]
-—
+---
+
 # AI and Professional Transparency
+
 _Artificial Intelligence and the Coming Transparency of Professional Skill_
 
 Artificial Intelligence is not only changing how work is done; it is also revealing something that already exists but is often hidden: the real distribution of competence inside professions.
@@ -25,6 +27,8 @@ Until now, many professional environments have partially masked these difference
 
 > AI act as a cognitive amplifier.
 >
+
+![hero.png](hero.png)
 
 I’m seeing AI acting as a cognitive amplifier. It expands the capacity of the person using it, but amplification does not create ability from nothing, it multiplies what already exists, it amplifies what the person already is.
 
@@ -51,6 +55,7 @@ In this sense, Artificial Intelligence will not only change productivity. It wil
 And perhaps, for the first time at scale, it will be shown clearly that tools do not replace human skill - they magnify it.
 
 ---
+
 **Disclaimer**: This article and its contents are protected by copyright. Reproduction, distribution, or use of any part of this material without prior written permission from the author is strictly prohibited._
   
 _Copyright © Hugo V Monteiro_
