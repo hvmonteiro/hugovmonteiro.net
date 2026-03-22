@@ -1,7 +1,7 @@
 ---
 title: AI and Professional Transparency
 summary: Artificial Intelligence and the Coming Transparency of Professional Skill
-tags: [“Artificial Intelligence”, “employment”, “Jobs”, “people”]
+tags: [“Artificial Intelligence”, “Employment”, “Jobs”, “People”]
 date: 2025-03-2T14:18:23+00:00
 author: Hugo Monteiro
 showTags: true
