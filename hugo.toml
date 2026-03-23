@@ -25,7 +25,7 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-{{< figure src="/images/home.jpg" class="figure" >}}  
+{{< figure src="/images/home.png" class="figure" >}}  
 You reached the personal website of _Hugo Monteiro_, a **technologist** at heart and a senior **IT Solution Designer** and **Systems Architect** with over _25 years of experience_ delivering impactful _IT and R&D solutions_ across some of the world’s largest technology corporations.  
   
 Outside the corporate environment, _Hugo_ has been actively involved in the [open-source](https://opensource.org/) movement, developing his own applications and tools whenever a specific need arises.
