@@ -21,6 +21,10 @@ Technology works best when people understand the problem, the trade-offs, and th
 
 ## How I approach leadership
 
-I value curiosity, clear communication, and practical judgment. A good technical direction should be ambitious enough to matter and simple enough to explain. It should leave room for teams to challenge it with evidence.
+I value curiosity, clear communication, transparency, and practical judgment. A good technical direction should be ambitious enough to matter and simple enough to explain. It should leave room for teams to challenge it with evidence.
+
+I take emotions and human relationships seriously. Trust, empathy, and genuine social connection are essential for teams to succeed. Behind every professional is a person with a private life, pressures, and challenges that may not be visible at work. Leadership needs to make room for that reality.
+
+We are all human, and we all make mistakes. I believe transparent communication turns mistakes into opportunities to learn, correct course, and improve together.
 
 My [professional career](/about/professional-career/) provides more background. If you would like to discuss a technology challenge, connect with me on [LinkedIn](https://www.linkedin.com/in/hvmonteiro/).

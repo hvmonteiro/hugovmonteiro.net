@@ -27,9 +27,9 @@ homeIntroTitle = "Hi, I'm Hugo."
 homeIntroContent = """
 {{< figure src="/images/home.png" class="figure" >}}
 
-I'm Hugo Monteiro, a technologist, solution designer, and systems architect based in Lisbon. For more than 25 years, I've worked across IT and R&D, connecting business needs with technology that teams can build, run, and improve.
+I'm Hugo Monteiro, a **technologist**, **solution designer**, and **systems architect** based in Lisbon. For more than 25 years, I've worked across IT and R&D, connecting business needs with technology that teams can build, run, and improve.
 
-My work increasingly centers on **technology leadership**: making sound architecture decisions, bringing people together around a clear direction, and helping complex ideas become useful systems. I also enjoy being a sounding board for founders who are shaping a product and the team behind it.
+My work increasingly centers on **technology leadership**: making sound architecture decisions, bringing people together around a clear direction, and helping complex ideas become useful systems. I'm also developing my path as a **speaker** and **startup mentor**, helping founders shape both their products and the teams behind them. I draw on more than 25 years in fast-paced corporate R&D environments, where technology, people, and delivery have to move together.
 
 **Explore:** [Technology Leadership](/technology-leadership/) · [Startup Mentoring](/startup-mentoring/) · [About me](/about/) · [Tech Corner](/tech-corner/) · [Writings](/writings/)
 
