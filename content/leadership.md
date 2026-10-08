@@ -1,5 +1,5 @@
 ---
-title: "Technology Leadership"
+title: "leadership"
 summary: "Helping people make clear technology decisions and build systems that last."
 showTags: false
 showAuthor: false

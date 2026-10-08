@@ -31,7 +31,7 @@ I'm Hugo Monteiro, a **technologist**, **solution designer**, and **systems arch
 
 My work increasingly centers on **technology leadership**: making clear architecture decisions, bringing people together, and helping complex ideas become useful systems. I'm also preparing the next stage of my path as a **speaker** and future **startup mentor**. The mentoring plan is still being defined and will be based on what I have learned in fast-paced corporate R&D teams about scalable systems, long-term thinking, people, and delivery.
 
-**Explore:** [Technology Leadership](/technology-leadership/) · [Startup Mentoring](/startup-mentoring/) · [About me](/about/) · [Tech Corner](/tech-corner/) · [Writings](/writings/)
+**Explore:** [leadership](/leadership/) · [mentoring](/mentoring/) · [about me](/about/) · [tech corner](/tech-corner/) · [writings](/writings/)
 
 Outside work, I'm a musician, a hands-on maker, a motorcycle enthusiast, and a curious writer. You'll find more of that side of me on the [About page](/about/), through [my music](https://www.hugovmonteiro.com), and at [Intriguing Mind](https://intriguingmind.substack.com/).
 """
@@ -99,11 +99,11 @@ url = "/"
 
 [[params.menu]]
 name = "leadership"
-url = "/technology-leadership/"
+url = "/leadership/"
 
 [[params.menu]]
 name = "mentoring"
-url = "/startup-mentoring/"
+url = "/mentoring/"
 
 [[params.menu]]
 name = "about"

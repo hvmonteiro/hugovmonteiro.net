@@ -1,5 +1,5 @@
 ---
-title: "Startup Mentoring"
+title: "mentoring"
 summary: "A direction I am preparing, based on long experience in corporate R&D and scalable systems."
 showTags: false
 showAuthor: false
@@ -30,4 +30,4 @@ My main strength comes from working as an architect and solution designer. I kno
 
 For now, this page describes the direction I am preparing. As I become involved in startup communities and gain direct mentoring experience, I will update it with real work and lessons learned.
 
-If you are part of a startup community and think my background could be useful, you can connect with me on [LinkedIn](https://www.linkedin.com/in/hvmonteiro/). You can also read more about my [professional background](/about/professional-career/) and my approach to [technology leadership](/technology-leadership/).
+If you are part of a startup community and think my background could be useful, you can connect with me on [LinkedIn](https://www.linkedin.com/in/hvmonteiro/). You can also read more about my [professional background](/about/professional-career/) and my approach to [technology leadership](/leadership/).

@@ -24,9 +24,9 @@ I'm Hugo Monteiro, a technologist at heart and a curious person beyond technolog
 
 For more than 25 years, I've worked across IT and R&D, from hardware and infrastructure to software, cloud platforms, integration, and product delivery. I'm currently an IT Solution Designer and Systems Architect at Nokia, where I contribute to application architecture, systems integration, and R&D DevOps platforms.
 
-The part I enjoy most is connecting the technical and human sides of a problem: understanding the need, making trade-offs visible, and helping teams move toward a solution they can sustain. Read more about my [professional career](/about/professional-career/) and how I think about [technology leadership](/technology-leadership/).
+The part I enjoy most is connecting the technical and human sides of a problem: understanding the need, making trade-offs visible, and helping teams move toward a solution they can sustain. Read more about my [professional career](/about/professional-career/) and how I think about [technology leadership](/leadership/).
 
-I'm also exploring a future path in startup mentoring. I am still defining the plan and have not yet built direct mentoring experience. What I can bring is many years of work in startup-like corporate R&D teams and experience building systems for long-term growth. My [startup mentoring](/startup-mentoring/) page explains this direction.
+I'm also exploring a future path in startup mentoring. I am still defining the plan and have not yet built direct mentoring experience. What I can bring is many years of work in startup-like corporate R&D teams and experience building systems for long-term growth. My [startup mentoring](/mentoring/) page explains this direction.
 
 ## Beyond technology
 
