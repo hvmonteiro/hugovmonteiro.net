@@ -26,7 +26,7 @@ For more than 25 years, I've worked across IT and R&D, from hardware and infrast
 
 The part I enjoy most is connecting the technical and human sides of a problem: understanding the need, making trade-offs visible, and helping teams move toward a solution they can sustain. Read more about my [professional career](/about/professional-career/) and how I think about [technology leadership](/technology-leadership/).
 
-I'm also interested in helping founders test assumptions and make practical product and technology decisions. My [startup mentoring](/startup-mentoring/) page explains the conversations I can contribute to.
+I'm also exploring a future path in startup mentoring. I am still defining the plan and have not yet built direct mentoring experience. What I can bring is many years of work in startup-like corporate R&D teams and experience building systems for long-term growth. My [startup mentoring](/startup-mentoring/) page explains this direction.
 
 ## Beyond technology
 

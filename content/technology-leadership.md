@@ -1,6 +1,6 @@
 ---
 title: "Technology Leadership"
-summary: "Connecting strategy, architecture, and the people who deliver."
+summary: "Helping people make clear technology decisions and build systems that last."
 showTags: false
 showAuthor: false
 toc: false
@@ -10,21 +10,28 @@ hidePagination: true
 featured_image: ""
 ---
 
-Technology works best when people understand the problem, the trade-offs, and the direction. My experience spans more than 25 years of IT and R&D work, including systems architecture, integration, infrastructure, software delivery, and cross-functional collaboration.
+I have worked in IT and R&D for more than 25 years. During that time, I have worked with many parts of technology: systems architecture, integration, infrastructure, software delivery, DevOps, and cybersecurity. This broad experience helps me understand how a decision in one area can affect the whole system.
 
 ## What I focus on
 
-- **Clarify the problem.** Start with the outcome people need, the constraints that matter, and the assumptions worth testing.
-- **Make architecture decisions understandable.** Compare options in terms of value, risk, cost, and long-term maintainability.
-- **Connect teams and disciplines.** Bring business, product, engineering, operations, and governance into the same conversation.
-- **Support delivery.** Break a direction into decisions and steps that teams can execute, review, and improve.
+- **Understand the problem.** Start with what people need, what limits exist, and which ideas need to be tested.
+- **Make decisions clear.** Explain the options, costs, risks, and long-term effects in language that everyone can understand.
+- **Connect people and technical areas.** Bring business, product, engineering, operations, and governance into the same conversation.
+- **Build for the future.** Make practical choices today without losing sight of scalability, maintenance, and future change.
+- **Support delivery.** Turn a direction into steps that teams can build, review, and improve.
+
+## DevOps and cybersecurity
+
+DevOps has been an important part of my work. This includes CI/CD, build pipelines, release processes, source control, automation, and the platforms that support the software development lifecycle.
+
+Cybersecurity has also been present throughout my work as an architect and solution designer. I have dealt with security requirements, risks, and issues in many systems and projects. I have never worked as a member of a dedicated cybersecurity team, so I see cybersecurity as an important part of my architecture experience rather than my main area of specialization.
 
 ## How I approach leadership
 
-I value curiosity, clear communication, transparency, and practical judgment. A good technical direction should be ambitious enough to matter and simple enough to explain. It should leave room for teams to challenge it with evidence.
+I value curiosity, clear communication, transparency, and practical thinking. People should understand what is happening, why a decision was made, and what is expected from them.
 
-I take emotions and human relationships seriously. Trust, empathy, and genuine social connection are essential for teams to succeed. Behind every professional is a person with a private life, pressures, and challenges that may not be visible at work. Leadership needs to make room for that reality.
+I take emotions and human relationships seriously. Trust, empathy, and good social connections are very important for a team to succeed. Every professional is also a person, with a private life, pressures, and challenges that may not be visible at work. A leader needs to be aware of that.
 
-We are all human, and we all make mistakes. I believe transparent communication turns mistakes into opportunities to learn, correct course, and improve together.
+We are all human, and we all make mistakes. The important thing is to speak openly, learn from the mistake, correct it, and use the experience to improve together.
 
 My [professional career](/about/professional-career/) provides more background. If you would like to discuss a technology challenge, connect with me on [LinkedIn](https://www.linkedin.com/in/hvmonteiro/).
