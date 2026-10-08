@@ -8,24 +8,22 @@
         <a href="{{ site.BaseURL }}">{{ site.Title | safeHTML }}</a>
     </h1>
 
-    <h2 class="header-description">{{ site.Params.Description }}<h2>
+    <h2 class="header-description">{{ site.Params.Description }}</h2>
 
-    <div class="header-menu">
+    <nav class="header-menu" aria-label="Main navigation">
         {{ $currentPage := . }}
 
         {{ with site.Params.menu }}
         {{ range . }}
-
-        <p
-            class="small {{ if eq .name (lower $currentPage.Name) }} bold {{end}}">
-            <a href="{{ .url }}" {{ if and (isset . "newTab") .newTab
-                }}target="_blank" rel="noopener noreferrer" {{ end }}>
-                /{{.name | safeHTML }}
+        {{ $active := eq .url $currentPage.RelPermalink }}
+        <p class="small{{ if $active }} bold{{ end }}">
+            <a href="{{ .url }}"{{ if $active }} aria-current="page"{{ end }}{{ if and (isset . "newTab") .newTab }} target="_blank" rel="noopener noreferrer"{{ end }}>
+                /{{ .name | safeHTML }}
             </a>
         </p>
         {{ end }}
-    {{ end }}
-    </div>
+        {{ end }}
+    </nav>
 
     {{ end }}
 
