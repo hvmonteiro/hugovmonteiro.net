@@ -1,6 +1,6 @@
 ---
 title: "mentoring"
-summary: "A direction I am preparing, based on long experience in corporate R&D and scalable systems."
+summary: "New directions from recent experiences. Mentoring, ideation, startup communities, and public speaking."
 showTags: false
 showAuthor: false
 toc: false
