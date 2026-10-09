@@ -10,7 +10,9 @@ readTime: false
 showDate: false
 hidePagination: true
 hideBreadcrumbs: true
-featured_image: ""
+featured_image: "hero.png"
+featured_alt: "Black-and-white views of design, Lisbon, and the 25 de Abril Bridge"
+featured_caption: ""
 ---
 
 ## First startup summit
