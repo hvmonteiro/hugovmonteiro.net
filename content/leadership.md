@@ -12,11 +12,15 @@ featured_image: ""
 
 I have worked in IT and R&D for more than 25 years. During that time, I have worked with many parts of technology: systems architecture, integration, infrastructure, software delivery, DevOps, and cybersecurity. This broad experience helps me understand how a decision in one area can affect the whole system.
 
+Over the years, I have led teams of R&D developers and IT technical professionals. I have also mentored several young professionals, helping them grow their technical skills, confidence, and understanding of the wider organization.
+
 ## What I focus on
 
 - **Understand the problem.** Start with what people need, what limits exist, and which ideas need to be tested.
+- **See the big picture.** I can often understand the wider situation from a small amount of information. This helps me connect separate topics, find dependencies, and identify effects that may not be obvious at first.
 - **Make decisions clear.** Explain the options, costs, risks, and long-term effects in language that everyone can understand.
 - **Connect people and technical areas.** Bring business, product, engineering, operations, and governance into the same conversation.
+- **Stay aware of cost.** I understand profit and loss (P&L), EBITDA, budgeting, service costs, and the financial effect of technical decisions.
 - **Build for the future.** Make practical choices today without losing sight of scalability, maintenance, and future change.
 - **Support delivery.** Turn a direction into steps that teams can build, review, and improve.
 
