@@ -3,7 +3,9 @@
 {{/* Breadcrumbs */}}
 
 {{ if not .IsHome }}
+{{ if not (.Param "hideBreadcrumbs") }}
 {{ partial "breadcrumbs.html" . }}
+{{ end }}
 {{ partial "featured-image.html" . }}
 {{ end }}
 
