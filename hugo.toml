@@ -15,7 +15,7 @@ tag = 'tags'
 [params]
 faviconPath = '/images'
 # Meta description
-description = 'Thoughts on life, society, the world, and technology.'
+description = 'Technology, people, and ideas from a curious mind.'
 
 # Appearance settings
 theme = 'light'                    # 'auto | light | dark'
@@ -23,25 +23,17 @@ colorPalette = 'default'           # https://tomfran.github.io/typo-wiki/feature
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi!'
+homeIntroTitle = "Hi, I'm Hugo."
 homeIntroContent = """
-{{< figure src="/images/home.png" class="figure" >}}  
-You reached the personal website of _Hugo Monteiro_, a **technologist** at heart and a senior **IT Solution Designer** and **Systems Architect** with over _25 years of experience_ delivering impactful _IT and R&D solutions_ across some of the world’s largest technology corporations.  
-  
-Outside the corporate environment, _Hugo_ has been actively involved in the [open-source](https://opensource.org/) movement, developing his own applications and tools whenever a specific need arises.
-  
-  
-Beyond technology, Hugo is deeply **curious** about life and society as a whole. He has a **strong drive** to understand how and why things work, always trying to go beyond the surface and explore subjects from the inside out.  
-  
-_Hugo is also a **musician**, **DIY** enthusiast, **mechanics** aficionado and an avid **writer**._  
-   
-You can check more **details about himself** in the [about](about) page.
-  
-If you're interested in his **professional career** you can jump to his _LinkedIn_ page [here](https://www.linkedin.com/in/hvmonteiro/).
-  
-The **_Musician side_** is found at it's dedicated website [here](https://www.hugovmonteiro.com).
+{{< figure src="/images/home.png" class="figure" >}}
 
-You should also check his recent **writings** in his blog **_Intriguing Mind_** on SubStack [here](https://intriguingmind.substack.com/), or on the local section [writings](/writings) at this site.
+I'm Hugo Monteiro, a **technologist**, **solution designer**, and **systems architect** based in Lisbon, Portugal. For more than 25 years, I've worked across IT and R&D, connecting business needs with technology that teams can build, run, and improve.
+
+My work increasingly centers on **technology leadership**: making clear architecture decisions, bringing people together, and helping complex ideas become useful systems. I'm also preparing the next stage of my path through **public speaking**, **startup mentoring**, and exploring product ideas. These directions are still being defined and are based on what I have learned in fast-paced corporate R&D teams about scalable systems, long-term thinking, people, and delivery.
+
+**Explore:** [leadership](/leadership/) · [directions](/directions/) · [about me](/about/) · [tech corner](/tech-corner/) · [writings](/writings/)
+
+Outside work, I'm a musician, a hands-on maker, a motorcycle enthusiast, and a curious writer. You'll find more of that side of me on the [About page](/about/), through [my music](https://www.hugovmonteiro.com), and at [Intriguing Mind](https://intriguingmind.substack.com/).
 """
 
 # Collection to display on home
@@ -106,25 +98,34 @@ name = "home"
 url = "/"
 
 [[params.menu]]
-name = "writings"
-url = "/writings"
+name = "leadership"
+url = "/leadership/"
+
+[[params.menu]]
+name = "directions"
+url = "/directions/"
+
+[[params.menu]]
+name = "about"
+url = "/about/"
 
 [[params.menu]]
 name = "tech corner"
-url = "/tech-corner"
+url = "/tech-corner/"
+
+[[params.menu]]
+name = "writings"
+url = "/writings/"
 
 [[params.menu]]
 name = "tags"
-url = "/tags"
+url = "/tags/"
 
 [[params.menu]]
 name = "intriguing mind&#x2197"
 url = "https://intriguingmind.substack.com/"
 rel = "external"
-
-[[params.menu]]
-name = "about"
-url = "/about"
+newTab = true
 
 
 [markup]
@@ -154,4 +155,3 @@ theme = "preferred_color_scheme"
 enable = true
 websiteId = "unique-website-id"
 jsLocation = "http://example.org/umami.js"
-

@@ -74,8 +74,6 @@ img {
     height: auto;
     width: auto;
 }
-
-
 .single-title {
     text-align: center;
 }
@@ -326,4 +324,26 @@ hr {
   .toc:hover {
       text-decoration: none;
   }
+}
+
+/* Keep the expanded menu readable without changing the Typo theme. */
+.header-menu {
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: .25rem 1rem;
+}
+
+.header-menu p {
+    margin: 0;
+}
+
+@media (max-width: 768px) {
+    .header-menu {
+        flex-direction: row;
+        gap: .25rem .75rem;
+    }
+
+    .header-menu p {
+        margin: 0;
+    }
 }
