@@ -9,6 +9,7 @@ toc: false
 readTime: false
 showDate: false
 hidePagination: true
+hideBreadcrumbs: true
 featured_image: ""
 ---
 
