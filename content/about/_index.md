@@ -28,7 +28,9 @@ The part I enjoy most is connecting the technical and human sides of a problem: 
 
 I'm also exploring a future path in startup mentoring. I am still defining the plan and have not yet built direct mentoring experience. What I can bring is many years of work in startup-like corporate R&D teams and experience building systems for long-term growth. My [directions](/directions/) page explains this and the other paths I am exploring.
 
-## Beyond technology
+## Beyond work
+
+**Creative software development** has been part of my life for as long as I can remember. Outside my professional work, I build tools and applications for my own use, experiment with ideas, learn new technologies, and contribute to open-source projects. It gives me the freedom to solve problems and turn ideas into something useful simply because I am curious and enjoy creating things.
 
 **Music** has been part of my life since childhood. Classical training led to electric guitar, a band, recordings, and tours across Portugal and Europe. It taught me a great deal about collaboration, preparation, and performing together.
 
