@@ -1,6 +1,8 @@
 ---
-title: "mentoring"
-summary: "New directions from recent experiences. Mentoring, ideation, startup communities, and public speaking."
+title: "directions"
+summary: "New directions from recent experiences: mentoring, ideation, startup communities, and public speaking."
+aliases:
+  - "/mentoring/"
 showTags: false
 showAuthor: false
 toc: false

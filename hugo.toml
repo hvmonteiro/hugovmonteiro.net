@@ -29,9 +29,9 @@ homeIntroContent = """
 
 I'm Hugo Monteiro, a **technologist**, **solution designer**, and **systems architect** based in Lisbon, Portugal. For more than 25 years, I've worked across IT and R&D, connecting business needs with technology that teams can build, run, and improve.
 
-My work increasingly centers on **technology leadership**: making clear architecture decisions, bringing people together, and helping complex ideas become useful systems. I'm also preparing the next stage of my path as a **speaker** and future **startup mentor**. The mentoring plan is still being defined and will be based on what I have learned in fast-paced corporate R&D teams about scalable systems, long-term thinking, people, and delivery.
+My work increasingly centers on **technology leadership**: making clear architecture decisions, bringing people together, and helping complex ideas become useful systems. I'm also preparing the next stage of my path through **public speaking**, **startup mentoring**, and exploring product ideas. These directions are still being defined and are based on what I have learned in fast-paced corporate R&D teams about scalable systems, long-term thinking, people, and delivery.
 
-**Explore:** [leadership](/leadership/) · [mentoring](/mentoring/) · [about me](/about/) · [tech corner](/tech-corner/) · [writings](/writings/)
+**Explore:** [leadership](/leadership/) · [directions](/directions/) · [about me](/about/) · [tech corner](/tech-corner/) · [writings](/writings/)
 
 Outside work, I'm a musician, a hands-on maker, a motorcycle enthusiast, and a curious writer. You'll find more of that side of me on the [About page](/about/), through [my music](https://www.hugovmonteiro.com), and at [Intriguing Mind](https://intriguingmind.substack.com/).
 """
@@ -102,8 +102,8 @@ name = "leadership"
 url = "/leadership/"
 
 [[params.menu]]
-name = "mentoring"
-url = "/mentoring/"
+name = "directions"
+url = "/directions/"
 
 [[params.menu]]
 name = "about"
