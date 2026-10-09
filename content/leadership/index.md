@@ -8,8 +8,8 @@ readTime: false
 showDate: false
 hidePagination: true
 hideBreadcrumbs: true
-featured_image: "hero.png"
-featured_alt: "Technology workspace with multiple displays"
+featured_image: "hero.jpg"
+featured_alt: "Two people standing beside the words Passion Led Us Here"
 featured_caption: ""
 ---
 
