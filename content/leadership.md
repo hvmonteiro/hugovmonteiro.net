@@ -10,9 +10,17 @@ hidePagination: true
 featured_image: ""
 ---
 
+## My experience
+
 I have worked in IT and R&D for more than 25 years. During that time, I have worked with many parts of technology: systems architecture, integration, infrastructure, software delivery, DevOps, and cybersecurity. This broad experience helps me understand how a decision in one area can affect the whole system.
 
 Over the years, I have led teams of R&D developers and IT technical professionals. I have also mentored several young professionals, helping them grow their technical skills, confidence, and understanding of the wider organization.
+
+## DevOps and cybersecurity
+
+DevOps has been an important part of my work. This includes CI/CD, build pipelines, release processes, source control, automation, and the platforms that support the software development lifecycle.
+
+Cybersecurity has also been present throughout my work as an architect and solution designer. I have dealt with security requirements, risks, and issues in many systems and projects. I have never worked as a member of a dedicated cybersecurity team, so I see cybersecurity as an important part of my architecture experience rather than my main area of specialization.
 
 ## What I focus on
 
@@ -23,12 +31,6 @@ Over the years, I have led teams of R&D developers and IT technical professional
 - **Stay aware of cost.** I understand profit and loss (P&L), EBITDA, budgeting, service costs, and the financial effect of technical decisions.
 - **Build for the future.** Make practical choices today without losing sight of scalability, maintenance, and future change.
 - **Support delivery.** Turn a direction into steps that teams can build, review, and improve.
-
-## DevOps and cybersecurity
-
-DevOps has been an important part of my work. This includes CI/CD, build pipelines, release processes, source control, automation, and the platforms that support the software development lifecycle.
-
-Cybersecurity has also been present throughout my work as an architect and solution designer. I have dealt with security requirements, risks, and issues in many systems and projects. I have never worked as a member of a dedicated cybersecurity team, so I see cybersecurity as an important part of my architecture experience rather than my main area of specialization.
 
 ## How I approach leadership
 
