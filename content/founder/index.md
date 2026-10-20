@@ -1,7 +1,8 @@
 ---
-title: "directions"
+title: "founder"
 summary: "New directions from recent experiences: mentoring, ideation, startup communities, and public speaking."
 aliases:
+  - "/directions/"
   - "/mentoring/"
 showTags: false
 showAuthor: false
