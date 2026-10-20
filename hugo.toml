@@ -27,13 +27,11 @@ homeIntroTitle = "Hi, I'm Hugo."
 homeIntroContent = """
 {{< figure src="/images/home.png" class="figure" >}}
 
-I'm Hugo Monteiro, a **technologist**, **solution designer**, and **systems architect** based in Lisbon, Portugal. For more than 25 years, I've worked across IT and R&D, connecting business needs with technology that teams can build, run, and improve.
+I’m Hugo Monteiro, a technologist, engineering leader, solutions designer, and systems architect based in Lisbon, Portugal. For more than 25 years, I’ve worked across IT, R&D, and ERP, with uncommon vertical experience and know-how in technology business, connecting business needs with technology.
 
-My work increasingly centers on **technology leadership**: making clear architecture decisions, bringing people together, and helping complex ideas become useful systems. I'm also preparing the next stage of my path through **public speaking**, **startup mentoring**, and exploring product ideas. These directions are still being defined and are based on what I have learned in fast-paced corporate R&D teams about scalable systems, long-term thinking, people, and delivery.
+My work is centered on *technology leadership*: making clear architecture decisions, *bridging the gap between business and technical teams*, and helping complex ideas become useful systems. Also interested in *public speaking*, *startup ecosystem*, *mentoring* and *exploring product ideas*. Some directions are still being defined while others are already being explored, but all are based on what I have learned in fast-paced corporate R&D multinational teams about scalable systems, long-term thinking, people, and delivery.
 
-**Explore:** [about me](/about/) · [leadership](/leadership/) · [founder](/founder/) · [tech corner](/tech-corner/) · [writings](/writings/)
-
-Outside work, I'm a musician, a hands-on maker, a motorcycle enthusiast, and a curious writer. You'll find more of that side of me on the [About page](/about/), through [my music](https://www.hugovmonteiro.com), and at [Intriguing Mind](https://intriguingmind.substack.com/).
+Outside work, I’m a musician, a DIY hands-on maker, a motorcycle enthusiast, and a curious writer. You’ll find more of that side of me on the [About page](/about/), through [my music](https://www.hugovmonteiro.com), and at <a href="https://intriguingmind.substack.com/" target="_blank" rel="noopener noreferrer">Intriguing Mind</a>.
 """
 
 # Collection to display on home
