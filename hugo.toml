@@ -86,6 +86,10 @@ url = "https://www.instagram.com/hvmonteiroo/"
 name = "threads"
 url = "https://www.threads.net/@hvmonteiroo"
 
+[[params.social]]
+name = "x"
+url = "https://x.com/hvmonteiro"
+
 #[[params.social]]
 #name = "Buy me a Coffee"
 #url = "https://buymeacoffee.com/hvmonteiro"
