@@ -1,6 +1,6 @@
 baseURL = 'https://www.hugovmonteiro.net/'
 languageCode = 'en-us'
-title = 'hugo V monteiro'
+title = 'hugo v monteiro'
 
 # Google analytics code
 #googleAnalytics = "G-xxxxxxxxx"
@@ -67,25 +67,24 @@ home = "~"
 
 # Social icons
 [[params.social]]
-name = "LinkedIn"
+name = "linked in"
 url = "https://www.linkedin.com/in/hvmonteiro/"
 
 [[params.social]]
-name = "SubStack"
+name = "substack"
 url = "https://intriguingmind.substack.com/"
 
 [[params.social]]
-name = "GitHub"
+name = "github"
 url = "https://github.com/hvmonteiro"
 
-#[[params.social]]
-#name = "Mastodon"
-#url = "https://mastodon.online/@hvmonteiro"
+[[params.social]]
+name = "instagram"
+url = "https://www.instagram.com/hvmonteiroo/"
 
-#[[params.social]]
-#name = "Threads"
-#icon = "fab fa-threads"
-#url = "https://www.threads.com/@hugo.v.monteiro"
+[[params.social]]
+name = "threads"
+url = "https://www.threads.net/@hvmonteiroo"
 
 #[[params.social]]
 #name = "Buy me a Coffee"

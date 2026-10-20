@@ -34,7 +34,7 @@
     font-size: 16px;
     font-family: var(--font-body);
     margin-top: 1rem;
-    color: #acacac;
+    color: #555555;
     font-weight: 100;
 }
 
@@ -259,6 +259,15 @@ hr {
 .social-icons {
     margin-bottom: 0rem;
     text-align: center;
+}
+
+.social-icons a:not(:last-of-type) {
+    margin-inline-end: 0;
+}
+
+.social-icons a:not(:last-of-type)::after {
+    content: " · ";
+    color: var(--content-secondary);
 }
 
 
