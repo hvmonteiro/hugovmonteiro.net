@@ -259,6 +259,17 @@ hr {
 .social-icons {
     margin-bottom: 0rem;
     text-align: center;
+    font-size: 13px;
+}
+
+.social-icons a {
+    color: #666666;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.social-icons a:hover {
+    text-decoration: underline;
 }
 
 .social-icons a:not(:last-of-type) {
