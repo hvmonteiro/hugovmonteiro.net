@@ -272,12 +272,7 @@ hr {
     text-decoration: underline;
 }
 
-.social-icons a:not(:last-of-type) {
-    margin-inline-end: 0;
-}
-
-.social-icons a:not(:last-of-type)::after {
-    content: " · ";
+.social-separator {
     color: var(--content-secondary);
 }
 

@@ -3,12 +3,11 @@
 
 {{ with site.Params.social }}
 <div class="social-icons">
-    {{- range . }}
-    <a href="{{ trim .url " " | safeURL }}" target="_blank"
+    {{- range $index, $social := . -}}
+    {{- if gt $index 0 }}<span class="social-separator" aria-hidden="true"> · </span>{{ end -}}
+    <a href="{{ trim $social.url " " | safeURL }}" target="_blank"
         rel="noopener noreferrer me"
-        title="{{ .title | default .name }}">
-        {{ .name }}
-    </a>
+        title="{{ $social.title | default $social.name }}">{{ $social.name }}</a>
     {{- end }}
 </div>
 {{ end }}
