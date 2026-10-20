@@ -272,6 +272,10 @@ hr {
     text-decoration: underline;
 }
 
+.social-icons a:not(:last-of-type) {
+    margin-inline-end: 0;
+}
+
 .social-separator {
     color: var(--content-secondary);
 }

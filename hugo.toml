@@ -71,24 +71,24 @@ name = "linked in"
 url = "https://www.linkedin.com/in/hvmonteiro/"
 
 [[params.social]]
-name = "substack"
-url = "https://intriguingmind.substack.com/"
+name = "x.com"
+url = "https://x.com/hvmonteiro"
 
 [[params.social]]
 name = "github"
 url = "https://github.com/hvmonteiro"
 
 [[params.social]]
-name = "instagram"
-url = "https://www.instagram.com/hvmonteiroo/"
-
-[[params.social]]
 name = "threads"
 url = "https://www.threads.net/@hvmonteiroo"
 
 [[params.social]]
-name = "x"
-url = "https://x.com/hvmonteiro"
+name = "instagram"
+url = "https://www.instagram.com/hvmonteiroo/"
+
+[[params.social]]
+name = "substack"
+url = "https://intriguingmind.substack.com/"
 
 #[[params.social]]
 #name = "Buy me a Coffee"
